@@ -1,0 +1,342 @@
+window.widgets = {
+descriptionMap : widgetDescriptionMap = {},
+rootWidgetMap : widgetRootMap = {}
+};
+
+widgets.descriptionMap[["s-Paragraph_1", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Paragraph_1", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Basic menu", "s-Table_1"]; 
+
+widgets.descriptionMap[["s-Cell_11", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Cell_11", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Basic menu", "s-Table_1"]; 
+
+widgets.descriptionMap[["s-Paragraph_2", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Paragraph_2", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Basic menu", "s-Table_1"]; 
+
+widgets.descriptionMap[["s-Cell_12", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Cell_12", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Basic menu", "s-Table_1"]; 
+
+widgets.descriptionMap[["s-Paragraph_3", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Paragraph_3", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Basic menu", "s-Table_1"]; 
+
+widgets.descriptionMap[["s-Cell_13", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Cell_13", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Basic menu", "s-Table_1"]; 
+
+widgets.descriptionMap[["s-Paragraph_4", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Paragraph_4", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Basic menu", "s-Table_1"]; 
+
+widgets.descriptionMap[["s-Cell_14", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Cell_14", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Basic menu", "s-Table_1"]; 
+
+widgets.descriptionMap[["s-Paragraph_5", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Paragraph_5", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Basic menu", "s-Table_1"]; 
+
+widgets.descriptionMap[["s-Cell_15", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Cell_15", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Basic menu", "s-Table_1"]; 
+
+widgets.descriptionMap[["s-Image_5", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Image_5", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Carousel 2", "s-Group_1"]; 
+
+widgets.descriptionMap[["s-Paragraph_6", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Paragraph_6", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["h3", "s-Paragraph_6"]; 
+
+widgets.descriptionMap[["s-Image_6", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Image_6", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Carousel 2", "s-Group_1"]; 
+
+widgets.descriptionMap[["s-Image_7", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Image_7", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Carousel 2", "s-Group_1"]; 
+
+widgets.descriptionMap[["s-Paragraph_7", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Paragraph_7", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Carousel 2", "s-Group_1"]; 
+
+widgets.descriptionMap[["s-Paragraph_8", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Paragraph_8", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["h3", "s-Paragraph_8"]; 
+
+widgets.descriptionMap[["s-Image_8", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Image_8", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Carousel 2", "s-Group_1"]; 
+
+widgets.descriptionMap[["s-Image_9", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Image_9", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Carousel 2", "s-Group_1"]; 
+
+widgets.descriptionMap[["s-Image_10", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Image_10", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Carousel 2", "s-Group_1"]; 
+
+widgets.descriptionMap[["s-Panel_1", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Panel_1", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Carousel 2", "s-Group_1"]; 
+
+widgets.descriptionMap[["s-Image_11", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Image_11", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Carousel 2", "s-Group_1"]; 
+
+widgets.descriptionMap[["s-Image_12", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Image_12", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Carousel 2", "s-Group_1"]; 
+
+widgets.descriptionMap[["s-Image_13", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Image_13", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Carousel 2", "s-Group_1"]; 
+
+widgets.descriptionMap[["s-Paragraph_9", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Paragraph_9", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Carousel 2", "s-Group_1"]; 
+
+widgets.descriptionMap[["s-Paragraph_10", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Paragraph_10", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["h3", "s-Paragraph_10"]; 
+
+widgets.descriptionMap[["s-Image_14", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Image_14", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Carousel 2", "s-Group_1"]; 
+
+widgets.descriptionMap[["s-Image_15", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Image_15", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Carousel 2", "s-Group_1"]; 
+
+widgets.descriptionMap[["s-Image_16", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Image_16", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Carousel 2", "s-Group_1"]; 
+
+widgets.descriptionMap[["s-Panel_2", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Panel_2", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Carousel 2", "s-Group_1"]; 
+
+widgets.descriptionMap[["s-Ellipse_1", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Ellipse_1", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Carousel 2", "s-Group_1"]; 
+
+widgets.descriptionMap[["s-Path_1", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Path_1", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Carousel 2", "s-Group_1"]; 
+
+widgets.descriptionMap[["s-Ellipse_2", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Ellipse_2", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Carousel 2", "s-Group_1"]; 
+
+widgets.descriptionMap[["s-Path_2", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Path_2", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Carousel 2", "s-Group_1"]; 
+
+widgets.descriptionMap[["s-Paragraph_11", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Paragraph_11", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["H1", "s-Paragraph_11"]; 
+
+widgets.descriptionMap[["s-Paragraph_12", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Paragraph_12", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["H1", "s-Paragraph_12"]; 
+
+widgets.descriptionMap[["s-Paragraph_14", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Paragraph_14", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Subtitle", "s-Paragraph_14"]; 
+
+widgets.descriptionMap[["s-Rectangle_1", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Rectangle_1", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Border", "s-Group_10"]; 
+
+widgets.descriptionMap[["s-Image_17", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Image_17", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Image", "s-Image_17"]; 
+
+widgets.descriptionMap[["s-Paragraph_15", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Paragraph_15", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Border", "s-Group_10"]; 
+
+widgets.descriptionMap[["s-Path_3", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Path_3", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Border", "s-Group_10"]; 
+
+widgets.descriptionMap[["s-Button_1", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Button_1", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Border", "s-Group_10"]; 
+
+widgets.descriptionMap[["s-Paragraph_16", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Paragraph_16", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Border", "s-Group_10"]; 
+
+widgets.descriptionMap[["s-Paragraph_17", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Paragraph_17", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["h3", "s-Paragraph_17"]; 
+
+widgets.descriptionMap[["s-Rectangle_2", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Rectangle_2", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Border", "s-Group_12"]; 
+
+widgets.descriptionMap[["s-Image_18", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Image_18", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Image", "s-Image_18"]; 
+
+widgets.descriptionMap[["s-Paragraph_18", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Paragraph_18", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Border", "s-Group_12"]; 
+
+widgets.descriptionMap[["s-Path_4", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Path_4", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Border", "s-Group_12"]; 
+
+widgets.descriptionMap[["s-Button_2", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Button_2", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Border", "s-Group_12"]; 
+
+widgets.descriptionMap[["s-Paragraph_19", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Paragraph_19", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Border", "s-Group_12"]; 
+
+widgets.descriptionMap[["s-Paragraph_20", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Paragraph_20", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["h3", "s-Paragraph_20"]; 
+
+widgets.descriptionMap[["s-Rectangle_3", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Rectangle_3", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Border", "s-Group_14"]; 
+
+widgets.descriptionMap[["s-Image_20", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Image_20", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Image", "s-Image_20"]; 
+
+widgets.descriptionMap[["s-Paragraph_21", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Paragraph_21", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Border", "s-Group_14"]; 
+
+widgets.descriptionMap[["s-Path_5", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Path_5", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Border", "s-Group_14"]; 
+
+widgets.descriptionMap[["s-Button_3", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Button_3", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Border", "s-Group_14"]; 
+
+widgets.descriptionMap[["s-Paragraph_22", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Paragraph_22", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Border", "s-Group_14"]; 
+
+widgets.descriptionMap[["s-Paragraph_23", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Paragraph_23", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["h3", "s-Paragraph_23"]; 
+
+widgets.descriptionMap[["s-Rectangle_7", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Rectangle_7", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Footer with input", "s-Group_22"]; 
+
+widgets.descriptionMap[["s-Button_7", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Button_7", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Footer with input", "s-Group_22"]; 
+
+widgets.descriptionMap[["s-Input_1", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Input_1", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Footer with input", "s-Group_22"]; 
+
+widgets.descriptionMap[["s-Paragraph_33", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Paragraph_33", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Footer with input", "s-Group_22"]; 
+
+widgets.descriptionMap[["s-Paragraph_34", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Paragraph_34", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["h3", "s-Paragraph_34"]; 
+
+widgets.descriptionMap[["s-Path_9", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Path_9", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Footer with input", "s-Group_22"]; 
+
+widgets.descriptionMap[["s-Paragraph_35", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Paragraph_35", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Footer with input", "s-Group_22"]; 
+
+widgets.descriptionMap[["s-Paragraph_36", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Paragraph_36", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Footer with input", "s-Group_22"]; 
+
+widgets.descriptionMap[["s-Path_10", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Path_10", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Footer with input", "s-Group_22"]; 
+
+widgets.descriptionMap[["s-Path_11", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Path_11", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Footer with input", "s-Group_22"]; 
+
+widgets.descriptionMap[["s-Path_12", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Path_12", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Footer with input", "s-Group_22"]; 
+
+widgets.descriptionMap[["s-Path_13", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Path_13", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Footer with input", "s-Group_22"]; 
+
+widgets.descriptionMap[["s-Path_14", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Path_14", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Footer with input", "s-Group_22"]; 
+
+widgets.descriptionMap[["s-Path_15", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Path_15", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Footer with input", "s-Group_22"]; 
+
+widgets.descriptionMap[["s-Path_16", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Path_16", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Footer with input", "s-Group_22"]; 
+
+widgets.descriptionMap[["s-Path_17", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Path_17", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Footer with input", "s-Group_22"]; 
+
+widgets.descriptionMap[["s-Path_18", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Path_18", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Footer with input", "s-Group_22"]; 
+
+widgets.descriptionMap[["s-Paragraph_37", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Paragraph_37", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Footer with input", "s-Group_22"]; 
+
+widgets.descriptionMap[["s-Paragraph_39", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Paragraph_39", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["H1", "s-Paragraph_39"]; 
+
+widgets.descriptionMap[["s-Rectangle_5", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Rectangle_5", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Quote img", "s-Group_28"]; 
+
+widgets.descriptionMap[["s-Ellipse_10", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Ellipse_10", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Quote img", "s-Group_28"]; 
+
+widgets.descriptionMap[["s-Path_25", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Path_25", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Quote img", "s-Group_28"]; 
+
+widgets.descriptionMap[["s-Path_26", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Path_26", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Quote img", "s-Group_28"]; 
+
+widgets.descriptionMap[["s-Paragraph_46", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Paragraph_46", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Title", "s-Paragraph_46"]; 
+
+widgets.descriptionMap[["s-Paragraph_51", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Paragraph_51", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Quote img", "s-Group_28"]; 
+
+widgets.descriptionMap[["s-Paragraph_24", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Paragraph_24", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["h3", "s-Paragraph_24"]; 
+
+widgets.descriptionMap[["s-Image_22", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+widgets.rootWidgetMap[["s-Image_22", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Quote img", "s-Group_28"]; 
+
+	

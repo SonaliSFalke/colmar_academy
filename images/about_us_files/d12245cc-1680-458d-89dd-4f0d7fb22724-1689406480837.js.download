@@ -1,0 +1,1193 @@
+jQuery("#simulation")
+.on("click", ".s-d12245cc-1680-458d-89dd-4f0d7fb22724 .click", function(event, data) {
+var jEvent, jFirer, cases;
+if(jimUtil.isAlternateModeActive()) return;
+if(data === undefined) { data = event; }
+jEvent = jimEvent(event);
+jFirer = jEvent.getEventFirer();
+if(jFirer.is("#s-Ellipse_1")) {
+cases = [
+{
+"blocks": [
+{
+"actions": [
+{
+"action": "jimShow",
+"parameter": {
+"target": [ "#s-Panel_1" ],
+"transition": {
+"type": "slideright",
+"duration": 1000
+}
+},
+"exectype": "serial",
+"delay": 0
+}
+]
+}
+],
+"exectype": "serial",
+"delay": 0
+}
+];
+event.data = data;
+jEvent.launchCases(cases);
+} else if(jFirer.is("#s-Path_1")) {
+cases = [
+{
+"blocks": [
+{
+"actions": [
+{
+"action": "jimShow",
+"parameter": {
+"target": [ "#s-Panel_1" ],
+"transition": {
+"type": "slideright",
+"duration": 1000
+}
+},
+"exectype": "serial",
+"delay": 0
+}
+]
+}
+],
+"exectype": "serial",
+"delay": 0
+}
+];
+event.data = data;
+jEvent.launchCases(cases);
+} else if(jFirer.is("#s-Ellipse_2")) {
+cases = [
+{
+"blocks": [
+{
+"actions": [
+{
+"action": "jimShow",
+"parameter": {
+"target": [ "#s-Panel_2" ],
+"transition": {
+"type": "slideleft",
+"duration": 1000
+}
+},
+"exectype": "serial",
+"delay": 0
+}
+]
+}
+],
+"exectype": "serial",
+"delay": 0
+}
+];
+event.data = data;
+jEvent.launchCases(cases);
+} else if(jFirer.is("#s-Path_2")) {
+cases = [
+{
+"blocks": [
+{
+"actions": [
+{
+"action": "jimShow",
+"parameter": {
+"target": [ "#s-Panel_2" ],
+"transition": {
+"type": "slideleft",
+"duration": 1000
+}
+},
+"exectype": "serial",
+"delay": 0
+}
+]
+}
+],
+"exectype": "serial",
+"delay": 0
+}
+];
+event.data = data;
+jEvent.launchCases(cases);
+}
+})
+.on("mouseenter dragenter", ".s-d12245cc-1680-458d-89dd-4f0d7fb22724 .mouseenter", function(event, data) {
+var jEvent, jFirer, cases;
+if(jimUtil.isAlternateModeActive()) return;
+if(data === undefined) { data = event; }
+jEvent = jimEvent(event);
+jFirer = jEvent.getDirectEventFirer(this);
+if(jFirer.is("#s-Paragraph_1") && jFirer.has(event.relatedTarget).length === 0) {
+event.backupState = true;
+event.target = jFirer;
+cases = [
+{
+"blocks": [
+{
+"actions": [
+{
+"action": "jimChangeStyle",
+"parameter": [ {
+"target": [ "#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Paragraph_1 span" ],
+"attributes": {
+"color": "#000000"
+}
+} ],
+"exectype": "serial",
+"delay": 0
+},
+{
+"action": "jimChangeCursor",
+"parameter": {
+"type": "pointer"
+},
+"exectype": "parallel",
+"delay": 0
+}
+]
+}
+],
+"exectype": "serial",
+"delay": 0
+}
+];
+jEvent.launchCases(cases);
+} else if(jFirer.is("#s-Paragraph_2") && jFirer.has(event.relatedTarget).length === 0) {
+event.backupState = true;
+event.target = jFirer;
+cases = [
+{
+"blocks": [
+{
+"actions": [
+{
+"action": "jimChangeStyle",
+"parameter": [ {
+"target": [ "#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Paragraph_2 span" ],
+"attributes": {
+"color": "#000000"
+}
+} ],
+"exectype": "serial",
+"delay": 0
+},
+{
+"action": "jimChangeCursor",
+"parameter": {
+"type": "pointer"
+},
+"exectype": "parallel",
+"delay": 0
+}
+]
+}
+],
+"exectype": "serial",
+"delay": 0
+}
+];
+jEvent.launchCases(cases);
+} else if(jFirer.is("#s-Paragraph_3") && jFirer.has(event.relatedTarget).length === 0) {
+event.backupState = true;
+event.target = jFirer;
+cases = [
+{
+"blocks": [
+{
+"actions": [
+{
+"action": "jimChangeStyle",
+"parameter": [ {
+"target": [ "#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Paragraph_3 span" ],
+"attributes": {
+"color": "#000000"
+}
+} ],
+"exectype": "serial",
+"delay": 0
+},
+{
+"action": "jimChangeCursor",
+"parameter": {
+"type": "pointer"
+},
+"exectype": "parallel",
+"delay": 0
+}
+]
+}
+],
+"exectype": "serial",
+"delay": 0
+}
+];
+jEvent.launchCases(cases);
+} else if(jFirer.is("#s-Paragraph_4") && jFirer.has(event.relatedTarget).length === 0) {
+event.backupState = true;
+event.target = jFirer;
+cases = [
+{
+"blocks": [
+{
+"actions": [
+{
+"action": "jimChangeStyle",
+"parameter": [ {
+"target": [ "#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Paragraph_4 span" ],
+"attributes": {
+"color": "#000000"
+}
+} ],
+"exectype": "serial",
+"delay": 0
+},
+{
+"action": "jimChangeCursor",
+"parameter": {
+"type": "pointer"
+},
+"exectype": "parallel",
+"delay": 0
+}
+]
+}
+],
+"exectype": "serial",
+"delay": 0
+}
+];
+jEvent.launchCases(cases);
+} else if(jFirer.is("#s-Paragraph_5") && jFirer.has(event.relatedTarget).length === 0) {
+event.backupState = true;
+event.target = jFirer;
+cases = [
+{
+"blocks": [
+{
+"actions": [
+{
+"action": "jimChangeStyle",
+"parameter": [ {
+"target": [ "#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Paragraph_5 span" ],
+"attributes": {
+"color": "#000000"
+}
+} ],
+"exectype": "serial",
+"delay": 0
+},
+{
+"action": "jimChangeCursor",
+"parameter": {
+"type": "pointer"
+},
+"exectype": "parallel",
+"delay": 0
+}
+]
+}
+],
+"exectype": "serial",
+"delay": 0
+}
+];
+jEvent.launchCases(cases);
+} else if(jFirer.is("#s-Ellipse_1") && jFirer.has(event.relatedTarget).length === 0) {
+event.backupState = true;
+event.target = jFirer;
+cases = [
+{
+"blocks": [
+{
+"actions": [
+{
+"action": "jimChangeStyle",
+"parameter": [ {
+"target": [ "#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #shapewrapper-s-Ellipse_1" ],
+"attributes": {
+"opacity": "0.3"
+}
+},{
+"target": [ "#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Path_1" ],
+"attributes": {
+"opacity": "0.3"
+}
+} ],
+"exectype": "serial",
+"delay": 0
+}
+]
+}
+],
+"exectype": "serial",
+"delay": 0
+}
+];
+jEvent.launchCases(cases);
+} else if(jFirer.is("#s-Path_1") && jFirer.has(event.relatedTarget).length === 0) {
+event.backupState = true;
+event.target = jFirer;
+cases = [
+{
+"blocks": [
+{
+"actions": [
+{
+"action": "jimChangeStyle",
+"parameter": [ {
+"target": [ "#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #shapewrapper-s-Ellipse_1" ],
+"attributes": {
+"opacity": "0.3"
+}
+},{
+"target": [ "#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Path_1" ],
+"attributes": {
+"opacity": "0.3"
+}
+} ],
+"exectype": "serial",
+"delay": 0
+}
+]
+}
+],
+"exectype": "serial",
+"delay": 0
+}
+];
+jEvent.launchCases(cases);
+} else if(jFirer.is("#s-Ellipse_2") && jFirer.has(event.relatedTarget).length === 0) {
+event.backupState = true;
+event.target = jFirer;
+cases = [
+{
+"blocks": [
+{
+"actions": [
+{
+"action": "jimChangeStyle",
+"parameter": [ {
+"target": [ "#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #shapewrapper-s-Ellipse_2" ],
+"attributes": {
+"opacity": "0.3"
+}
+},{
+"target": [ "#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Path_2" ],
+"attributes": {
+"opacity": "0.3"
+}
+} ],
+"exectype": "serial",
+"delay": 0
+}
+]
+}
+],
+"exectype": "serial",
+"delay": 0
+}
+];
+jEvent.launchCases(cases);
+} else if(jFirer.is("#s-Path_2") && jFirer.has(event.relatedTarget).length === 0) {
+event.backupState = true;
+event.target = jFirer;
+cases = [
+{
+"blocks": [
+{
+"actions": [
+{
+"action": "jimChangeStyle",
+"parameter": [ {
+"target": [ "#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #shapewrapper-s-Ellipse_2" ],
+"attributes": {
+"opacity": "0.3"
+}
+},{
+"target": [ "#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Path_2" ],
+"attributes": {
+"opacity": "0.3"
+}
+} ],
+"exectype": "serial",
+"delay": 0
+}
+]
+}
+],
+"exectype": "serial",
+"delay": 0
+}
+];
+jEvent.launchCases(cases);
+} else if(jFirer.is("#s-Paragraph_15") && jFirer.has(event.relatedTarget).length === 0) {
+event.backupState = true;
+event.target = jFirer;
+cases = [
+{
+"blocks": [
+{
+"actions": [
+{
+"action": "jimChangeStyle",
+"parameter": [ {
+"target": [ "#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Paragraph_15" ],
+"attributes": {
+"opacity": "0.5"
+}
+},{
+"target": [ "#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Path_3" ],
+"attributes": {
+"opacity": "0.5"
+}
+} ],
+"exectype": "serial",
+"delay": 0
+},
+{
+"action": "jimChangeCursor",
+"parameter": {
+"type": "pointer"
+},
+"exectype": "parallel",
+"delay": 0
+}
+]
+}
+],
+"exectype": "serial",
+"delay": 0
+}
+];
+jEvent.launchCases(cases);
+} else if(jFirer.is("#s-Path_3") && jFirer.has(event.relatedTarget).length === 0) {
+event.backupState = true;
+event.target = jFirer;
+cases = [
+{
+"blocks": [
+{
+"actions": [
+{
+"action": "jimChangeStyle",
+"parameter": [ {
+"target": [ "#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Paragraph_15" ],
+"attributes": {
+"opacity": "0.5"
+}
+},{
+"target": [ "#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Path_3" ],
+"attributes": {
+"opacity": "0.5"
+}
+} ],
+"exectype": "serial",
+"delay": 0
+},
+{
+"action": "jimChangeCursor",
+"parameter": {
+"type": "pointer"
+},
+"exectype": "parallel",
+"delay": 0
+}
+]
+}
+],
+"exectype": "serial",
+"delay": 0
+}
+];
+jEvent.launchCases(cases);
+} else if(jFirer.is("#s-Button_1") && jFirer.has(event.relatedTarget).length === 0) {
+event.backupState = true;
+event.target = jFirer;
+cases = [
+{
+"blocks": [
+{
+"actions": [
+{
+"action": "jimChangeStyle",
+"parameter": [ {
+"target": [ "#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Button_1 > .backgroundLayer > .colorLayer" ],
+"attributes": {
+"background-color": "#3E3E3E"
+}
+} ],
+"exectype": "serial",
+"delay": 0
+},
+{
+"action": "jimChangeCursor",
+"parameter": {
+"type": "pointer"
+},
+"exectype": "parallel",
+"delay": 0
+}
+]
+}
+],
+"exectype": "serial",
+"delay": 0
+}
+];
+jEvent.launchCases(cases);
+} else if(jFirer.is("#s-Paragraph_18") && jFirer.has(event.relatedTarget).length === 0) {
+event.backupState = true;
+event.target = jFirer;
+cases = [
+{
+"blocks": [
+{
+"actions": [
+{
+"action": "jimChangeStyle",
+"parameter": [ {
+"target": [ "#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Paragraph_18" ],
+"attributes": {
+"opacity": "0.5"
+}
+},{
+"target": [ "#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Path_4" ],
+"attributes": {
+"opacity": "0.5"
+}
+} ],
+"exectype": "serial",
+"delay": 0
+},
+{
+"action": "jimChangeCursor",
+"parameter": {
+"type": "pointer"
+},
+"exectype": "parallel",
+"delay": 0
+}
+]
+}
+],
+"exectype": "serial",
+"delay": 0
+}
+];
+jEvent.launchCases(cases);
+} else if(jFirer.is("#s-Path_4") && jFirer.has(event.relatedTarget).length === 0) {
+event.backupState = true;
+event.target = jFirer;
+cases = [
+{
+"blocks": [
+{
+"actions": [
+{
+"action": "jimChangeStyle",
+"parameter": [ {
+"target": [ "#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Paragraph_18" ],
+"attributes": {
+"opacity": "0.5"
+}
+},{
+"target": [ "#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Path_4" ],
+"attributes": {
+"opacity": "0.5"
+}
+} ],
+"exectype": "serial",
+"delay": 0
+},
+{
+"action": "jimChangeCursor",
+"parameter": {
+"type": "pointer"
+},
+"exectype": "parallel",
+"delay": 0
+}
+]
+}
+],
+"exectype": "serial",
+"delay": 0
+}
+];
+jEvent.launchCases(cases);
+} else if(jFirer.is("#s-Button_2") && jFirer.has(event.relatedTarget).length === 0) {
+event.backupState = true;
+event.target = jFirer;
+cases = [
+{
+"blocks": [
+{
+"actions": [
+{
+"action": "jimChangeStyle",
+"parameter": [ {
+"target": [ "#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Button_2 > .backgroundLayer > .colorLayer" ],
+"attributes": {
+"background-color": "#3E3E3E"
+}
+} ],
+"exectype": "serial",
+"delay": 0
+},
+{
+"action": "jimChangeCursor",
+"parameter": {
+"type": "pointer"
+},
+"exectype": "parallel",
+"delay": 0
+}
+]
+}
+],
+"exectype": "serial",
+"delay": 0
+}
+];
+jEvent.launchCases(cases);
+} else if(jFirer.is("#s-Paragraph_21") && jFirer.has(event.relatedTarget).length === 0) {
+event.backupState = true;
+event.target = jFirer;
+cases = [
+{
+"blocks": [
+{
+"actions": [
+{
+"action": "jimChangeStyle",
+"parameter": [ {
+"target": [ "#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Paragraph_21" ],
+"attributes": {
+"opacity": "0.5"
+}
+},{
+"target": [ "#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Path_5" ],
+"attributes": {
+"opacity": "0.5"
+}
+} ],
+"exectype": "serial",
+"delay": 0
+},
+{
+"action": "jimChangeCursor",
+"parameter": {
+"type": "pointer"
+},
+"exectype": "parallel",
+"delay": 0
+}
+]
+}
+],
+"exectype": "serial",
+"delay": 0
+}
+];
+jEvent.launchCases(cases);
+} else if(jFirer.is("#s-Path_5") && jFirer.has(event.relatedTarget).length === 0) {
+event.backupState = true;
+event.target = jFirer;
+cases = [
+{
+"blocks": [
+{
+"actions": [
+{
+"action": "jimChangeStyle",
+"parameter": [ {
+"target": [ "#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Paragraph_21" ],
+"attributes": {
+"opacity": "0.5"
+}
+},{
+"target": [ "#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Path_5" ],
+"attributes": {
+"opacity": "0.5"
+}
+} ],
+"exectype": "serial",
+"delay": 0
+},
+{
+"action": "jimChangeCursor",
+"parameter": {
+"type": "pointer"
+},
+"exectype": "parallel",
+"delay": 0
+}
+]
+}
+],
+"exectype": "serial",
+"delay": 0
+}
+];
+jEvent.launchCases(cases);
+} else if(jFirer.is("#s-Button_3") && jFirer.has(event.relatedTarget).length === 0) {
+event.backupState = true;
+event.target = jFirer;
+cases = [
+{
+"blocks": [
+{
+"actions": [
+{
+"action": "jimChangeStyle",
+"parameter": [ {
+"target": [ "#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Button_3 > .backgroundLayer > .colorLayer" ],
+"attributes": {
+"background-color": "#3E3E3E"
+}
+} ],
+"exectype": "serial",
+"delay": 0
+},
+{
+"action": "jimChangeCursor",
+"parameter": {
+"type": "pointer"
+},
+"exectype": "parallel",
+"delay": 0
+}
+]
+}
+],
+"exectype": "serial",
+"delay": 0
+}
+];
+jEvent.launchCases(cases);
+} else if(jFirer.is("#s-Button_7") && jFirer.has(event.relatedTarget).length === 0) {
+event.backupState = true;
+event.target = jFirer;
+cases = [
+{
+"blocks": [
+{
+"actions": [
+{
+"action": "jimChangeStyle",
+"parameter": [ {
+"target": [ "#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Button_7 > .backgroundLayer > .colorLayer" ],
+"attributes": {
+"background-color": "#3E3E3E"
+}
+} ],
+"exectype": "serial",
+"delay": 0
+},
+{
+"action": "jimChangeCursor",
+"parameter": {
+"type": "pointer"
+},
+"exectype": "parallel",
+"delay": 0
+}
+]
+}
+],
+"exectype": "serial",
+"delay": 0
+}
+];
+jEvent.launchCases(cases);
+} else if(jFirer.is("#s-Path_10") && jFirer.has(event.relatedTarget).length === 0) {
+event.backupState = true;
+event.target = jFirer;
+cases = [
+{
+"blocks": [
+{
+"actions": [
+{
+"action": "jimChangeStyle",
+"parameter": [ {
+"target": [ "#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Path_10" ],
+"attributes": {
+"opacity": "0.5"
+}
+} ],
+"exectype": "serial",
+"delay": 0
+},
+{
+"action": "jimChangeCursor",
+"parameter": {
+"type": "pointer"
+},
+"exectype": "parallel",
+"delay": 0
+}
+]
+}
+],
+"exectype": "serial",
+"delay": 0
+}
+];
+jEvent.launchCases(cases);
+} else if(jFirer.is("#s-Path_11") && jFirer.has(event.relatedTarget).length === 0) {
+event.backupState = true;
+event.target = jFirer;
+cases = [
+{
+"blocks": [
+{
+"actions": [
+{
+"action": "jimChangeStyle",
+"parameter": [ {
+"target": [ "#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Path_10" ],
+"attributes": {
+"opacity": "0.5"
+}
+} ],
+"exectype": "serial",
+"delay": 0
+},
+{
+"action": "jimChangeCursor",
+"parameter": {
+"type": "pointer"
+},
+"exectype": "parallel",
+"delay": 0
+}
+]
+}
+],
+"exectype": "serial",
+"delay": 0
+}
+];
+jEvent.launchCases(cases);
+} else if(jFirer.is("#s-Path_12") && jFirer.has(event.relatedTarget).length === 0) {
+event.backupState = true;
+event.target = jFirer;
+cases = [
+{
+"blocks": [
+{
+"actions": [
+{
+"action": "jimChangeStyle",
+"parameter": [ {
+"target": [ "#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Path_10" ],
+"attributes": {
+"opacity": "0.5"
+}
+} ],
+"exectype": "serial",
+"delay": 0
+},
+{
+"action": "jimChangeCursor",
+"parameter": {
+"type": "pointer"
+},
+"exectype": "parallel",
+"delay": 0
+}
+]
+}
+],
+"exectype": "serial",
+"delay": 0
+}
+];
+jEvent.launchCases(cases);
+} else if(jFirer.is("#s-Path_13") && jFirer.has(event.relatedTarget).length === 0) {
+event.backupState = true;
+event.target = jFirer;
+cases = [
+{
+"blocks": [
+{
+"actions": [
+{
+"action": "jimChangeStyle",
+"parameter": [ {
+"target": [ "#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Path_10" ],
+"attributes": {
+"opacity": "0.5"
+}
+} ],
+"exectype": "serial",
+"delay": 0
+},
+{
+"action": "jimChangeCursor",
+"parameter": {
+"type": "pointer"
+},
+"exectype": "parallel",
+"delay": 0
+}
+]
+}
+],
+"exectype": "serial",
+"delay": 0
+}
+];
+jEvent.launchCases(cases);
+} else if(jFirer.is("#s-Path_14") && jFirer.has(event.relatedTarget).length === 0) {
+event.backupState = true;
+event.target = jFirer;
+cases = [
+{
+"blocks": [
+{
+"actions": [
+{
+"action": "jimChangeStyle",
+"parameter": [ {
+"target": [ "#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Path_16",
+"#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Path_15",
+"#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Path_14" ],
+"attributes": {
+"opacity": "0.5"
+}
+} ],
+"exectype": "serial",
+"delay": 0
+},
+{
+"action": "jimChangeCursor",
+"parameter": {
+"type": "pointer"
+},
+"exectype": "parallel",
+"delay": 0
+}
+]
+}
+],
+"exectype": "serial",
+"delay": 0
+}
+];
+jEvent.launchCases(cases);
+} else if(jFirer.is("#s-Path_15") && jFirer.has(event.relatedTarget).length === 0) {
+event.backupState = true;
+event.target = jFirer;
+cases = [
+{
+"blocks": [
+{
+"actions": [
+{
+"action": "jimChangeStyle",
+"parameter": [ {
+"target": [ "#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Path_16",
+"#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Path_15",
+"#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Path_14" ],
+"attributes": {
+"opacity": "0.5"
+}
+} ],
+"exectype": "serial",
+"delay": 0
+},
+{
+"action": "jimChangeCursor",
+"parameter": {
+"type": "pointer"
+},
+"exectype": "parallel",
+"delay": 0
+}
+]
+}
+],
+"exectype": "serial",
+"delay": 0
+}
+];
+jEvent.launchCases(cases);
+} else if(jFirer.is("#s-Path_16") && jFirer.has(event.relatedTarget).length === 0) {
+event.backupState = true;
+event.target = jFirer;
+cases = [
+{
+"blocks": [
+{
+"actions": [
+{
+"action": "jimChangeStyle",
+"parameter": [ {
+"target": [ "#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Path_16",
+"#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Path_15",
+"#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Path_14" ],
+"attributes": {
+"opacity": "0.5"
+}
+} ],
+"exectype": "serial",
+"delay": 0
+},
+{
+"action": "jimChangeCursor",
+"parameter": {
+"type": "pointer"
+},
+"exectype": "parallel",
+"delay": 0
+}
+]
+}
+],
+"exectype": "serial",
+"delay": 0
+}
+];
+jEvent.launchCases(cases);
+} else if(jFirer.is("#s-Path_17") && jFirer.has(event.relatedTarget).length === 0) {
+event.backupState = true;
+event.target = jFirer;
+cases = [
+{
+"blocks": [
+{
+"actions": [
+{
+"action": "jimChangeStyle",
+"parameter": [ {
+"target": [ "#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Path_17" ],
+"attributes": {
+"opacity": "0.5"
+}
+} ],
+"exectype": "serial",
+"delay": 0
+},
+{
+"action": "jimChangeCursor",
+"parameter": {
+"type": "pointer"
+},
+"exectype": "parallel",
+"delay": 0
+}
+]
+}
+],
+"exectype": "serial",
+"delay": 0
+}
+];
+jEvent.launchCases(cases);
+} else if(jFirer.is("#s-Path_18") && jFirer.has(event.relatedTarget).length === 0) {
+event.backupState = true;
+event.target = jFirer;
+cases = [
+{
+"blocks": [
+{
+"actions": [
+{
+"action": "jimChangeStyle",
+"parameter": [ {
+"target": [ "#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Path_18" ],
+"attributes": {
+"opacity": "0.5"
+}
+} ],
+"exectype": "serial",
+"delay": 0
+},
+{
+"action": "jimChangeCursor",
+"parameter": {
+"type": "pointer"
+},
+"exectype": "parallel",
+"delay": 0
+}
+]
+}
+],
+"exectype": "serial",
+"delay": 0
+}
+];
+jEvent.launchCases(cases);
+}
+})
+.on("mouseleave dragleave", ".s-d12245cc-1680-458d-89dd-4f0d7fb22724 .mouseleave", function(event, data) {
+var jEvent, jFirer, cases;
+if(jimUtil.isAlternateModeActive()) return;
+if(data === undefined) { data = event; }
+jEvent = jimEvent(event);
+jFirer = jEvent.getDirectEventFirer(this);
+if(jFirer.is("#s-Paragraph_1")) {
+jEvent.undoCases(jFirer);
+} else if(jFirer.is("#s-Paragraph_2")) {
+jEvent.undoCases(jFirer);
+} else if(jFirer.is("#s-Paragraph_3")) {
+jEvent.undoCases(jFirer);
+} else if(jFirer.is("#s-Paragraph_4")) {
+jEvent.undoCases(jFirer);
+} else if(jFirer.is("#s-Paragraph_5")) {
+jEvent.undoCases(jFirer);
+} else if(jFirer.is("#s-Ellipse_1")) {
+jEvent.undoCases(jFirer);
+} else if(jFirer.is("#s-Path_1")) {
+jEvent.undoCases(jFirer);
+} else if(jFirer.is("#s-Ellipse_2")) {
+jEvent.undoCases(jFirer);
+} else if(jFirer.is("#s-Path_2")) {
+jEvent.undoCases(jFirer);
+} else if(jFirer.is("#s-Paragraph_15")) {
+jEvent.undoCases(jFirer);
+} else if(jFirer.is("#s-Path_3")) {
+jEvent.undoCases(jFirer);
+} else if(jFirer.is("#s-Button_1")) {
+jEvent.undoCases(jFirer);
+} else if(jFirer.is("#s-Paragraph_18")) {
+jEvent.undoCases(jFirer);
+} else if(jFirer.is("#s-Path_4")) {
+jEvent.undoCases(jFirer);
+} else if(jFirer.is("#s-Button_2")) {
+jEvent.undoCases(jFirer);
+} else if(jFirer.is("#s-Paragraph_21")) {
+jEvent.undoCases(jFirer);
+} else if(jFirer.is("#s-Path_5")) {
+jEvent.undoCases(jFirer);
+} else if(jFirer.is("#s-Button_3")) {
+jEvent.undoCases(jFirer);
+} else if(jFirer.is("#s-Button_7")) {
+jEvent.undoCases(jFirer);
+} else if(jFirer.is("#s-Path_10")) {
+jEvent.undoCases(jFirer);
+} else if(jFirer.is("#s-Path_11")) {
+jEvent.undoCases(jFirer);
+} else if(jFirer.is("#s-Path_12")) {
+jEvent.undoCases(jFirer);
+} else if(jFirer.is("#s-Path_13")) {
+jEvent.undoCases(jFirer);
+} else if(jFirer.is("#s-Path_14")) {
+jEvent.undoCases(jFirer);
+} else if(jFirer.is("#s-Path_15")) {
+jEvent.undoCases(jFirer);
+} else if(jFirer.is("#s-Path_16")) {
+jEvent.undoCases(jFirer);
+} else if(jFirer.is("#s-Path_17")) {
+jEvent.undoCases(jFirer);
+} else if(jFirer.is("#s-Path_18")) {
+jEvent.undoCases(jFirer);
+}
+});

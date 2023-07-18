@@ -1,0 +1,1554 @@
+var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWidth="1366" deviceHeight="2500">\
+    <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1" width="1024" height="768">\
+    <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
+    <div id="alignmentBox">\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1689406480837.css" />\
+      <div class="freeLayout">\
+      </div>\
+\
+      </div>\
+      <div id="loadMark"></div>\
+    </div>\
+    <div id="s-d12245cc-1680-458d-89dd-4f0d7fb22724" class="screen growth-vertical devWeb canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Screen 1" width="1366" height="2500">\
+    <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
+    <div id="alignmentBox">\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/d12245cc-1680-458d-89dd-4f0d7fb22724-1689406480837.css" />\
+      <div class="freeLayout">\
+      <div id="s-Image_1" class="image firer ie-background commentable non-processed" customid="Image 2"   datasizewidth="175.0px" datasizeheight="150.0px" dataX="41.0" dataY="-31.8"   alt="image">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+        		<img src="./images/e45f1bd8-a9d4-4071-87ce-08b5f4451b43.png" />\
+        	</div>\
+        </div>\
+      </div>\
+\
+      <div id="s-Table_1" class="table firer commentable non-processed" customid="Basic menu"  datasizewidth="797.5px" datasizeheight="83.5px" dataX="237.0" dataY="19.0" originalwidth="797.5316677093506px" originalheight="83.50000000000006px" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <table summary="">\
+              <tbody>\
+                <tr>\
+                  <td id="s-Cell_11" customid="Cell 1" class="cellcontainer firer ie-background non-processed"    datasizewidth="159.5px" datasizeheight="83.5px" dataX="0.0" dataY="0.0" originalwidth="159.5063335418701px" originalheight="83.50000000000006px" >\
+                    <div class="cellContainerChild">\
+                      <div class="backgroundLayer">\
+                        <div class="colorLayer"></div>\
+                        <div class="imageLayer"></div>\
+                      </div>\
+                      <div class="borderLayer">\
+                    	  <div class="layout scrollable">\
+                    	    <div class="paddingLayer">\
+                            <div class="center ghostHLayout">\
+                            <table class="layout" summary="">\
+                              <tr>\
+                                <td class="layout horizontal insertionpoint verticalalign Cell_11 Table_1" valign="middle" align="center" hSpacing="6" vSpacing="0"><div id="s-Paragraph_1" class="richtext manualfit firer mouseenter mouseleave ie-background commentable non-processed" customid="Home"   datasizewidth="40.0px" datasizeheight="19.0px" dataX="7.1" dataY="0.0" >\
+                              <div class="backgroundLayer">\
+                                <div class="colorLayer"></div>\
+                                <div class="imageLayer"></div>\
+                              </div>\
+                              <div class="borderLayer">\
+                                <div class="paddingLayer">\
+                                  <div class="content">\
+                                    <div class="valign">\
+                                      <span id="rtr-s-Paragraph_1_0">Home</span>\
+                                    </div>\
+                                  </div>\
+                                </div>\
+                              </div>\
+                            </div></td> \
+                              </tr>\
+                            </table>\
+                            </div>\
+\
+                          </div>\
+                        </div>\
+                      </div>\
+                    </div>\
+                  </td>\
+                  <td id="s-Cell_12" customid="Cell 2" class="cellcontainer firer ie-background non-processed"    datasizewidth="159.5px" datasizeheight="83.5px" dataX="0.0" dataY="0.0" originalwidth="159.5063335418701px" originalheight="83.50000000000006px" >\
+                    <div class="cellContainerChild">\
+                      <div class="backgroundLayer">\
+                        <div class="colorLayer"></div>\
+                        <div class="imageLayer"></div>\
+                      </div>\
+                      <div class="borderLayer">\
+                    	  <div class="layout scrollable">\
+                    	    <div class="paddingLayer">\
+                            <div class="center ghostHLayout">\
+                            <table class="layout" summary="">\
+                              <tr>\
+                                <td class="layout horizontal insertionpoint verticalalign Cell_12 Table_1" valign="middle" align="center" hSpacing="6" vSpacing="0"><div id="s-Paragraph_2" class="richtext autofit firer mouseenter mouseleave ie-background commentable non-processed" customid="Product"   datasizewidth="51.7px" datasizeheight="17.0px" dataX="6.5" dataY="0.0" >\
+                              <div class="backgroundLayer">\
+                                <div class="colorLayer"></div>\
+                                <div class="imageLayer"></div>\
+                              </div>\
+                              <div class="borderLayer">\
+                                <div class="paddingLayer">\
+                                  <div class="content">\
+                                    <div class="valign">\
+                                      <span id="rtr-s-Paragraph_2_0">Product</span>\
+                                    </div>\
+                                  </div>\
+                                </div>\
+                              </div>\
+                            </div></td> \
+                              </tr>\
+                            </table>\
+                            </div>\
+\
+                          </div>\
+                        </div>\
+                      </div>\
+                    </div>\
+                  </td>\
+                  <td id="s-Cell_13" customid="Cell 3" class="cellcontainer firer ie-background non-processed"    datasizewidth="159.5px" datasizeheight="83.5px" dataX="0.0" dataY="0.0" originalwidth="159.5063335418701px" originalheight="83.50000000000006px" >\
+                    <div class="cellContainerChild">\
+                      <div class="backgroundLayer">\
+                        <div class="colorLayer"></div>\
+                        <div class="imageLayer"></div>\
+                      </div>\
+                      <div class="borderLayer">\
+                    	  <div class="layout scrollable">\
+                    	    <div class="paddingLayer">\
+                            <div class="center ghostHLayout">\
+                            <table class="layout" summary="">\
+                              <tr>\
+                                <td class="layout horizontal insertionpoint verticalalign Cell_13 Table_1" valign="middle" align="center" hSpacing="6" vSpacing="0"><div id="s-Paragraph_3" class="richtext autofit firer mouseenter mouseleave ie-background commentable non-processed" customid="About"   datasizewidth="39.2px" datasizeheight="17.0px" dataX="4.8" dataY="0.0" >\
+                              <div class="backgroundLayer">\
+                                <div class="colorLayer"></div>\
+                                <div class="imageLayer"></div>\
+                              </div>\
+                              <div class="borderLayer">\
+                                <div class="paddingLayer">\
+                                  <div class="content">\
+                                    <div class="valign">\
+                                      <span id="rtr-s-Paragraph_3_0">About</span>\
+                                    </div>\
+                                  </div>\
+                                </div>\
+                              </div>\
+                            </div></td> \
+                              </tr>\
+                            </table>\
+                            </div>\
+\
+                          </div>\
+                        </div>\
+                      </div>\
+                    </div>\
+                  </td>\
+                  <td id="s-Cell_14" customid="Cell 6" class="cellcontainer firer ie-background non-processed"    datasizewidth="159.5px" datasizeheight="83.5px" dataX="0.0" dataY="0.0" originalwidth="159.5063335418701px" originalheight="83.50000000000006px" >\
+                    <div class="cellContainerChild">\
+                      <div class="backgroundLayer">\
+                        <div class="colorLayer"></div>\
+                        <div class="imageLayer"></div>\
+                      </div>\
+                      <div class="borderLayer">\
+                    	  <div class="layout scrollable">\
+                    	    <div class="paddingLayer">\
+                            <div class="center ghostHLayout">\
+                            <table class="layout" summary="">\
+                              <tr>\
+                                <td class="layout horizontal insertionpoint verticalalign Cell_14 Table_1" valign="middle" align="center" hSpacing="6" vSpacing="0"><div id="s-Paragraph_4" class="richtext autofit firer mouseenter mouseleave ie-background commentable non-processed" customid="Testomonial"   datasizewidth="59.2px" datasizeheight="17.0px" dataX="6.8" dataY="0.0" >\
+                              <div class="backgroundLayer">\
+                                <div class="colorLayer"></div>\
+                                <div class="imageLayer"></div>\
+                              </div>\
+                              <div class="borderLayer">\
+                                <div class="paddingLayer">\
+                                  <div class="content">\
+                                    <div class="valign">\
+                                      <span id="rtr-s-Paragraph_4_0">Features</span>\
+                                    </div>\
+                                  </div>\
+                                </div>\
+                              </div>\
+                            </div></td> \
+                              </tr>\
+                            </table>\
+                            </div>\
+\
+                          </div>\
+                        </div>\
+                      </div>\
+                    </div>\
+                  </td>\
+                  <td id="s-Cell_15" customid="Cell 8" class="cellcontainer firer ie-background non-processed"    datasizewidth="159.5px" datasizeheight="83.5px" dataX="0.0" dataY="0.0" originalwidth="159.5063335418701px" originalheight="83.50000000000006px" >\
+                    <div class="cellContainerChild">\
+                      <div class="backgroundLayer">\
+                        <div class="colorLayer"></div>\
+                        <div class="imageLayer"></div>\
+                      </div>\
+                      <div class="borderLayer">\
+                    	  <div class="layout scrollable">\
+                    	    <div class="paddingLayer">\
+                            <div class="center ghostHLayout">\
+                            <table class="layout" summary="">\
+                              <tr>\
+                                <td class="layout horizontal insertionpoint verticalalign Cell_15 Table_1" valign="middle" align="center" hSpacing="6" vSpacing="0"><div id="s-Paragraph_5" class="richtext autofit firer mouseenter mouseleave ie-background commentable non-processed" customid="Contact"   datasizewidth="51.7px" datasizeheight="17.0px" dataX="0.8" dataY="0.0" >\
+                              <div class="backgroundLayer">\
+                                <div class="colorLayer"></div>\
+                                <div class="imageLayer"></div>\
+                              </div>\
+                              <div class="borderLayer">\
+                                <div class="paddingLayer">\
+                                  <div class="content">\
+                                    <div class="valign">\
+                                      <span id="rtr-s-Paragraph_5_0">Contact</span>\
+                                    </div>\
+                                  </div>\
+                                </div>\
+                              </div>\
+                            </div></td> \
+                              </tr>\
+                            </table>\
+                            </div>\
+\
+                          </div>\
+                        </div>\
+                      </div>\
+                    </div>\
+                  </td>\
+                </tr>\
+              </tbody>\
+            </table>\
+          </div>\
+        </div>\
+      </div>\
+\
+      <div id="s-Image_2" class="image firer ie-background commentable non-processed" customid="Image 1"   datasizewidth="35.0px" datasizeheight="35.0px" dataX="1084.5" dataY="43.2"   alt="image">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+        		<img src="./images/33c0ad4c-9a52-4f54-b5ea-190e5c527c5e.png" />\
+        	</div>\
+        </div>\
+      </div>\
+\
+\
+      <div id="s-Image_3" class="image firer ie-background commentable non-processed" customid="Image 3"   datasizewidth="35.0px" datasizeheight="35.0px" dataX="1164.0" dataY="43.2"   alt="image">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+        		<img src="./images/63fb9497-1194-461a-98d5-861c084b1dbe.png" />\
+        	</div>\
+        </div>\
+      </div>\
+\
+\
+      <div id="s-Image_4" class="image firer ie-background commentable non-processed" customid="Image 4"   datasizewidth="35.0px" datasizeheight="35.0px" dataX="1253.3" dataY="43.2"   alt="image">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+        		<img src="./images/5cc7d4e0-e56d-429f-8b62-8202af18c3a4.png" />\
+        	</div>\
+        </div>\
+      </div>\
+\
+\
+      <div id="s-Group_1" class="group firer ie-background commentable non-processed" customid="Carousel 2" datasizewidth="0.0px" datasizeheight="0.0px" >\
+        <div id="s-Dynamic_Panel_1" class="dynamicpanel firer ie-background commentable non-processed" customid="Dynamic Panel" datasizewidth="1366.0px" datasizeheight="407.0px" dataX="0.0" dataY="118.5" >\
+          <div id="s-Panel_1" class="panel default firer ie-background commentable non-processed" customid="Panel 1"  datasizewidth="1366.0px" datasizeheight="400.0px" >\
+            <div class="backgroundLayer">\
+              <div class="colorLayer"></div>\
+              <div class="imageLayer"></div>\
+            </div>\
+            <div class="borderLayer">\
+            	<div class="layoutWrapper scrollable">\
+            	  <div class="paddingLayer">\
+                  <div class="freeLayout">\
+                  <div id="s-Group_2" class="group firer ie-background commentable non-processed" customid="Card 3" datasizewidth="0.0px" datasizeheight="0.0px" >\
+                    <div id="s-Image_5" class="image lockH firer ie-background commentable non-processed" customid="Image"   datasizewidth="559.4px" datasizeheight="400.0px" dataX="1004.5" dataY="0.0" aspectRatio="1.3985938"   alt="image">\
+                      <div class="borderLayer">\
+                      	<div class="imageViewport">\
+                      		<img src="./images/aace6a7b-f4ae-43a3-b98a-8db30089975c.png" />\
+                      	</div>\
+                      </div>\
+                    </div>\
+\
+                    <div id="s-Paragraph_6" class="richtext manualfit firer ie-background commentable non-processed" customid="H3"   datasizewidth="315.1px" datasizeheight="30.0px" dataX="1042.2" dataY="358.0" >\
+                      <div class="backgroundLayer">\
+                        <div class="colorLayer"></div>\
+                        <div class="imageLayer"></div>\
+                      </div>\
+                      <div class="borderLayer">\
+                        <div class="paddingLayer">\
+                          <div class="content">\
+                            <div class="valign">\
+                              <span id="rtr-s-Paragraph_6_0"></span>\
+                            </div>\
+                          </div>\
+                        </div>\
+                      </div>\
+                    </div>\
+\
+                    <div id="s-Image_6" class="image firer ie-background commentable non-processed" customid="Image 13"   datasizewidth="405.6px" datasizeheight="400.0px" dataX="1004.5" dataY="-0.0"   alt="image">\
+                      <div class="borderLayer">\
+                      	<div class="imageViewport">\
+                      		<img src="./images/ebfef2df-ebd4-48ad-889c-b77b69677a99.png" />\
+                      	</div>\
+                      </div>\
+                    </div>\
+\
+                  </div>\
+\
+\
+                  <div id="s-Group_3" class="group firer ie-background commentable non-processed" customid="Card 2" datasizewidth="0.0px" datasizeheight="0.0px" >\
+                    <div id="s-Image_7" class="image lockH firer ie-background commentable non-processed" customid="Image"   datasizewidth="624.1px" datasizeheight="444.5px" dataX="373.9" dataY="-14.5" aspectRatio="1.4040784"   alt="image">\
+                      <div class="borderLayer">\
+                      	<div class="imageViewport">\
+                      		<img src="./images/3864dc9e-dde0-4e35-89a8-65f230b756b6.png" />\
+                      	</div>\
+                      </div>\
+                    </div>\
+\
+                    <div id="s-Paragraph_7" class="richtext manualfit firer ie-background commentable non-processed" customid="Description"   datasizewidth="318.4px" datasizeheight="48.0px" dataX="428.5" dataY="324.0" >\
+                      <div class="backgroundLayer">\
+                        <div class="colorLayer"></div>\
+                        <div class="imageLayer"></div>\
+                      </div>\
+                      <div class="borderLayer">\
+                        <div class="paddingLayer">\
+                          <div class="content">\
+                            <div class="valign">\
+                              <span id="rtr-s-Paragraph_7_0"></span>\
+                            </div>\
+                          </div>\
+                        </div>\
+                      </div>\
+                    </div>\
+                    <div id="s-Paragraph_8" class="percentage richtext manualfit firer ie-background commentable non-processed-percentage non-processed" customid="H3"   datasizewidth="24.1%" datasizeheight="30.0px" dataX="524.0" dataY="357.0" >\
+                      <div class="backgroundLayer">\
+                        <div class="colorLayer"></div>\
+                        <div class="imageLayer"></div>\
+                      </div>\
+                      <div class="borderLayer">\
+                        <div class="paddingLayer">\
+                          <div class="content">\
+                            <div class="valign">\
+                              <span id="rtr-s-Paragraph_8_0">Go to the Collection</span>\
+                            </div>\
+                          </div>\
+                        </div>\
+                      </div>\
+                    </div>\
+\
+                    <div id="s-Image_8" class="image firer ie-background commentable non-processed" customid="Image 11"   datasizewidth="605.4px" datasizeheight="346.0px" dataX="386.3" dataY="2.0"   alt="image">\
+                      <div class="borderLayer">\
+                      	<div class="imageViewport">\
+                      		<img src="./images/e8c8e7d3-b214-4cdb-96c1-480821b6f5e3.png" />\
+                      	</div>\
+                      </div>\
+                    </div>\
+\
+                  </div>\
+\
+\
+                  <div id="s-Group_4" class="group firer ie-background commentable non-processed" customid="Card 1" datasizewidth="0.0px" datasizeheight="0.0px" >\
+                    <div id="s-Image_9" class="image lockH firer ie-background commentable non-processed" customid="Image"   datasizewidth="559.4px" datasizeheight="400.0px" dataX="-216.0" dataY="-1.0" aspectRatio="1.3985938"   alt="image">\
+                      <div class="borderLayer">\
+                      	<div class="imageViewport">\
+                      		<img src="./images/2a8117f8-ee1f-432e-9c69-ffd7102ad6e6.png" />\
+                      	</div>\
+                      </div>\
+                    </div>\
+\
+\
+                    <div id="s-Image_10" class="image firer ie-background commentable non-processed" customid="Image 12"   datasizewidth="488.7px" datasizeheight="400.0px" dataX="-119.3" dataY="-1.0"   alt="image">\
+                      <div class="borderLayer">\
+                      	<div class="imageViewport">\
+                      		<img src="./images/8c9f66a2-efaf-4b36-af7f-ec14fa5a11a1.png" />\
+                      	</div>\
+                      </div>\
+                    </div>\
+\
+                  </div>\
+\
+                  </div>\
+\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+          <div id="s-Panel_2" class="panel hidden firer ie-background commentable non-processed" customid="Panel 2"  datasizewidth="1366.0px" datasizeheight="407.0px" >\
+            <div class="backgroundLayer">\
+              <div class="colorLayer"></div>\
+              <div class="imageLayer"></div>\
+            </div>\
+            <div class="borderLayer">\
+            	<div class="layoutWrapper scrollable">\
+            	  <div class="paddingLayer">\
+                  <div class="freeLayout">\
+                  <div id="s-Group_5" class="group firer ie-background commentable non-processed" customid="Card 3" datasizewidth="0.0px" datasizeheight="0.0px" >\
+                    <div id="s-Image_11" class="image lockH firer ie-background commentable non-processed" customid="Image"   datasizewidth="559.4px" datasizeheight="400.0px" dataX="1008.5" dataY="0.0" aspectRatio="1.3985938"   alt="image">\
+                      <div class="borderLayer">\
+                      	<div class="imageViewport">\
+                      		<img src="./images/6cbecc6e-5bdc-4398-8dd5-3d626982092b.png" />\
+                      	</div>\
+                      </div>\
+                    </div>\
+\
+\
+                    <div id="s-Image_12" class="image firer ie-background commentable non-processed" customid="Image 16"   datasizewidth="471.3px" datasizeheight="400.4px" dataX="1008.5" dataY="0.0"   alt="image">\
+                      <div class="borderLayer">\
+                      	<div class="imageViewport">\
+                      		<img src="./images/ab652239-8afc-4e6d-a8ec-375948b30eb4.png" />\
+                      	</div>\
+                      </div>\
+                    </div>\
+\
+                  </div>\
+\
+\
+                  <div id="s-Group_6" class="group firer ie-background commentable non-processed" customid="Card 2" datasizewidth="0.0px" datasizeheight="0.0px" >\
+                    <div id="s-Image_13" class="image lockH firer ie-background commentable non-processed" customid="Image"   datasizewidth="613.4px" datasizeheight="436.9px" dataX="382.3" dataY="-17.2" aspectRatio="1.4040785"   alt="image">\
+                      <div class="borderLayer">\
+                      	<div class="imageViewport">\
+                      		<img src="./images/15c3e99b-7ef4-4550-be4e-7905366ac506.png" />\
+                      	</div>\
+                      </div>\
+                    </div>\
+\
+                    <div id="s-Paragraph_9" class="richtext manualfit firer ie-background commentable non-processed" customid="Description"   datasizewidth="322.6px" datasizeheight="48.0px" dataX="425.0" dataY="324.0" >\
+                      <div class="backgroundLayer">\
+                        <div class="colorLayer"></div>\
+                        <div class="imageLayer"></div>\
+                      </div>\
+                      <div class="borderLayer">\
+                        <div class="paddingLayer">\
+                          <div class="content">\
+                            <div class="valign">\
+                              <span id="rtr-s-Paragraph_9_0"></span>\
+                            </div>\
+                          </div>\
+                        </div>\
+                      </div>\
+                    </div>\
+                    <div id="s-Paragraph_10" class="richtext manualfit firer ie-background commentable non-processed" customid="H3"   datasizewidth="334.2px" datasizeheight="30.0px" dataX="534.4" dataY="357.0" >\
+                      <div class="backgroundLayer">\
+                        <div class="colorLayer"></div>\
+                        <div class="imageLayer"></div>\
+                      </div>\
+                      <div class="borderLayer">\
+                        <div class="paddingLayer">\
+                          <div class="content">\
+                            <div class="valign">\
+                              <span id="rtr-s-Paragraph_10_0">Go to the Collection</span>\
+                            </div>\
+                          </div>\
+                        </div>\
+                      </div>\
+                    </div>\
+\
+                    <div id="s-Image_14" class="image firer ie-background commentable non-processed" customid="Image 14"   datasizewidth="613.4px" datasizeheight="336.8px" dataX="382.3" dataY="1.9"   alt="image">\
+                      <div class="borderLayer">\
+                      	<div class="imageViewport">\
+                      		<img src="./images/12b30bb5-e45b-4e2a-8682-808fbae3554b.png" />\
+                      	</div>\
+                      </div>\
+                    </div>\
+\
+                  </div>\
+\
+\
+                  <div id="s-Group_7" class="group firer ie-background commentable non-processed" customid="Card 1" datasizewidth="0.0px" datasizeheight="0.0px" >\
+                    <div id="s-Image_15" class="image lockH firer ie-background commentable non-processed" customid="Image"   datasizewidth="559.4px" datasizeheight="400.0px" dataX="-216.0" dataY="-1.0" aspectRatio="1.3985938"   alt="image">\
+                      <div class="borderLayer">\
+                      	<div class="imageViewport">\
+                      		<img src="./images/2c46c2f6-f000-4705-b15b-89638d5dea32.png" />\
+                      	</div>\
+                      </div>\
+                    </div>\
+\
+\
+                    <div id="s-Image_16" class="image firer ie-background commentable non-processed" customid="Image 15"   datasizewidth="477.2px" datasizeheight="400.0px" dataX="-105.7" dataY="-1.0"   alt="image">\
+                      <div class="borderLayer">\
+                      	<div class="imageViewport">\
+                      		<img src="./images/e5c023d6-2741-47ca-8c7f-f933b6e18628.png" />\
+                      	</div>\
+                      </div>\
+                    </div>\
+\
+                  </div>\
+\
+                  </div>\
+\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+\
+        <div id="s-Group_8" class="group firer ie-background commentable non-processed" customid="previous" datasizewidth="0.0px" datasizeheight="0.0px" >\
+          <div id="shapewrapper-s-Ellipse_1" customid="Ellipse" class="shapewrapper shapewrapper-s-Ellipse_1 non-processed"   datasizewidth="58.0px" datasizeheight="58.0px" datasizewidthpx="58.0" datasizeheightpx="58.00000000000003" dataX="44.0" dataY="289.5" >\
+              <div class="backgroundLayer">\
+                <div class="colorLayer"></div>\
+                <div class="imageLayer"></div>\
+              </div>\
+              <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" id="svg-s-Ellipse_1" class="svgContainer" style="width:100%; height:100%;">\
+                  <g>\
+                      <g clip-path="url(#clip-s-Ellipse_1)">\
+                              <ellipse id="s-Ellipse_1" class="ellipse shape non-processed-shape manualfit firer click mouseenter mouseleave commentable non-processed" customid="Ellipse" cx="29.0" cy="29.000000000000014" rx="29.0" ry="29.000000000000014">\
+                              </ellipse>\
+                      </g>\
+                  </g>\
+                  <defs>\
+                      <clipPath id="clip-s-Ellipse_1" class="clipPath">\
+                              <ellipse cx="29.0" cy="29.000000000000014" rx="29.0" ry="29.000000000000014">\
+                              </ellipse>\
+                      </clipPath>\
+                  </defs>\
+              </svg>\
+              <div class="paddingLayer">\
+                  <div id="shapert-s-Ellipse_1" class="content firer" >\
+                      <div class="valign">\
+                          <span id="rtr-s-Ellipse_1_0"></span>\
+                      </div>\
+                  </div>\
+              </div>\
+          </div>\
+          <div id="s-Path_1" class="path firer click mouseenter mouseleave commentable non-processed" customid="Chevron"   datasizewidth="8.4px" datasizeheight="14.7px" dataX="68.0" dataY="311.5"  >\
+            <div class="borderLayer">\
+            	<div class="imageViewport">\
+              	<?xml version="1.0" encoding="UTF-8"?>\
+              	<svg xmlns="http://www.w3.org/2000/svg" width="8.444799423217773" height="14.727083206176758" viewBox="68.00000000000011 311.5000000000002 8.444799423217773 14.727083206176758" preserveAspectRatio="none">\
+              	  <g>\
+              	    <defs>\
+              	      <path id="s-Path_1-d1224" d="M74.77565910185152 325.94485305532265 C74.95750696503343 326.1274810891645 75.18885433476123 326.2270832370659 75.46152156400358 326.2270832370659 C76.00685467759398 326.2270832370659 76.44480000000021 325.7954505090599 76.44480000000021 325.2474974974137 C76.44480000000021 324.9735567978297 76.32916128238767 324.72455210366553 76.13906316522454 324.5335656775437 L70.35496671193165 318.8552595889695 L76.13906316522454 313.1935371938399 C76.32916128238767 313.0026004235403 76.44480000000021 312.7452432485036 76.44480000000021 312.4795906799001 C76.44480000000021 311.9316875774221 76.00685467759398 311.5000000000002 75.46152156400358 311.5000000000002 C75.18885433476123 311.5000000000002 74.95750696503343 311.5996218666678 74.77565910185152 311.78225623416046 L68.34704761625392 318.0915260195594 C68.11567923255294 318.3073775142122 68.0082631985888 318.57303008281565 68.00000000000011 318.86354771995 C68.00000000000011 319.1541362939733 68.11567923255294 319.40314098813747 68.34704761625392 319.6272812893601 L74.77565910185152 325.94485305532265 Z "></path>\
+              	    </defs>\
+              	    <g style="mix-blend-mode:normal">\
+              	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Path_1-d1224" fill="#000000" fill-opacity="1.0"></use>\
+              	    </g>\
+              	  </g>\
+              	</svg>\
+\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+\
+\
+        <div id="s-Group_9" class="group firer ie-background commentable non-processed" customid="next" datasizewidth="0.0px" datasizeheight="0.0px" >\
+          <div id="shapewrapper-s-Ellipse_2" customid="Ellipse" class="shapewrapper shapewrapper-s-Ellipse_2 non-processed"   datasizewidth="58.0px" datasizeheight="58.0px" datasizewidthpx="58.0" datasizeheightpx="58.00000000000003" dataX="1263.0" dataY="289.5" >\
+              <div class="backgroundLayer">\
+                <div class="colorLayer"></div>\
+                <div class="imageLayer"></div>\
+              </div>\
+              <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" id="svg-s-Ellipse_2" class="svgContainer" style="width:100%; height:100%;">\
+                  <g>\
+                      <g clip-path="url(#clip-s-Ellipse_2)">\
+                              <ellipse id="s-Ellipse_2" class="ellipse shape non-processed-shape manualfit firer click mouseenter mouseleave commentable non-processed" customid="Ellipse" cx="29.0" cy="29.000000000000014" rx="29.0" ry="29.000000000000014">\
+                              </ellipse>\
+                      </g>\
+                  </g>\
+                  <defs>\
+                      <clipPath id="clip-s-Ellipse_2" class="clipPath">\
+                              <ellipse cx="29.0" cy="29.000000000000014" rx="29.0" ry="29.000000000000014">\
+                              </ellipse>\
+                      </clipPath>\
+                  </defs>\
+              </svg>\
+              <div class="paddingLayer">\
+                  <div id="shapert-s-Ellipse_2" class="content firer" >\
+                      <div class="valign">\
+                          <span id="rtr-s-Ellipse_2_0"></span>\
+                      </div>\
+                  </div>\
+              </div>\
+          </div>\
+          <div id="s-Path_2" class="path firer click mouseenter mouseleave commentable non-processed" customid="Chevron"   datasizewidth="8.4px" datasizeheight="14.7px" dataX="1290.0" dataY="311.5"  >\
+            <div class="borderLayer">\
+            	<div class="imageViewport">\
+              	<?xml version="1.0" encoding="UTF-8"?>\
+              	<svg xmlns="http://www.w3.org/2000/svg" width="8.4447021484375" height="14.727081298828125" viewBox="1290.0000390625 311.50000099008855 8.4447021484375 14.727081298828125" preserveAspectRatio="none">\
+              	  <g>\
+              	    <defs>\
+              	      <path id="s-Path_2-d1224" d="M1291.6691408981487 325.94485305532265 C1291.487293034967 326.1274810891645 1291.2559456652389 326.2270832370659 1290.9832784359967 326.2270832370659 C1290.4379453224064 326.2270832370659 1290.0 325.79545050905995 1290.0 325.2474974974137 C1290.0 324.9735567978297 1290.1156387176127 324.7245521036656 1290.3057368347756 324.5335656775437 L1296.0898332880686 318.8552595889695 L1290.3057368347756 313.1935371938399 C1290.1156387176127 313.0026004235403 1290.0 312.7452432485036 1290.0 312.47959067990007 C1290.0 311.93168757742217 1290.4379453224064 311.5000000000002 1290.9832784359967 311.5000000000002 C1291.2559456652389 311.5000000000002 1291.487293034967 311.5996218666678 1291.6691408981487 311.78225623416046 L1298.0977523837462 318.0915260195594 C1298.3291207674474 318.3073775142122 1298.4365368014112 318.57303008281565 1298.4448 318.86354771995 C1298.4448 319.1541362939733 1298.3291207674474 319.40314098813747 1298.0977523837462 319.6272812893601 L1291.6691408981487 325.94485305532265 Z "></path>\
+              	    </defs>\
+              	    <g style="mix-blend-mode:normal">\
+              	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Path_2-d1224" fill="#000000" fill-opacity="1.0"></use>\
+              	    </g>\
+              	  </g>\
+              	</svg>\
+\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+\
+      </div>\
+\
+      <div id="s-Paragraph_11" class="richtext autofit firer ie-background commentable non-processed" customid="H1"   datasizewidth="1.0px" datasizeheight="1.0px" dataX="379.0" dataY="602.7" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Paragraph_11_0"></span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="s-Paragraph_12" class="richtext manualfit firer ie-background commentable non-processed" customid="H1"   datasizewidth="1333.4px" datasizeheight="76.0px" dataX="25.0" dataY="624.7" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Paragraph_12_0">ABOUT US</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="s-Paragraph_13" class="richtext manualfit firer ie-background commentable non-processed" customid="____"   datasizewidth="1333.4px" datasizeheight="82.0px" dataX="25.0" dataY="659.7" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Paragraph_13_0">____</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="s-Paragraph_14" class="richtext manualfit firer ie-background commentable non-processed" customid="Subtitle"   datasizewidth="1333.4px" datasizeheight="32.0px" dataX="26.3" dataY="764.8" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Paragraph_14_0">OUR TEAM</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+\
+      <div id="s-Group_10" class="group firer ie-background commentable non-processed" customid="Card border" datasizewidth="0.0px" datasizeheight="0.0px" >\
+        <div id="s-Rectangle_1" class="rectangle manualfit firer commentable non-processed" customid="BG"   datasizewidth="377.0px" datasizeheight="524.0px" datasizewidthpx="377.01775926484675" datasizeheightpx="524.0000000000001" dataX="97.0" dataY="831.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Rectangle_1_0"></span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+\
+        <div id="s-Image_17" class="image firer ie-background commentable non-processed" customid="Image"   datasizewidth="377.0px" datasizeheight="302.0px" dataX="97.0" dataY="831.0"   alt="image">\
+          <div class="borderLayer">\
+          	<div class="imageViewport">\
+          		<img src="./images/284c3a37-8068-468d-a09f-6b6822c25198.png" />\
+          	</div>\
+          </div>\
+        </div>\
+\
+\
+        <div id="s-Group_11" class="group firer ie-background commentable non-processed" customid="Link" datasizewidth="0.0px" datasizeheight="0.0px" >\
+          <div id="s-Paragraph_15" class="richtext autofit firer mouseenter mouseleave ie-background commentable non-processed" customid="Lorem ipsum link"   datasizewidth="113.4px" datasizeheight="17.0px" dataX="300.0" dataY="1284.0" >\
+            <div class="backgroundLayer">\
+              <div class="colorLayer"></div>\
+              <div class="imageLayer"></div>\
+            </div>\
+            <div class="borderLayer">\
+              <div class="paddingLayer">\
+                <div class="content">\
+                  <div class="valign">\
+                    <span id="rtr-s-Paragraph_15_0">Lorem ipsum link</span>\
+                  </div>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+          <div id="s-Path_3" class="path firer mouseenter mouseleave commentable non-processed" customid="chevron"   datasizewidth="10.4px" datasizeheight="6.0px" dataX="420.0" dataY="1290.0"  >\
+            <div class="borderLayer">\
+            	<div class="imageViewport">\
+              	<?xml version="1.0" encoding="UTF-8"?>\
+              	<svg xmlns="http://www.w3.org/2000/svg" width="10.411764144897461" height="6.0" viewBox="420.0 1290.0 10.411764144897461 6.0" preserveAspectRatio="none">\
+              	  <g>\
+              	    <defs>\
+              	      <path id="s-Path_3-d1224" d="M429.6176464524649 1290.0 L425.249999684446 1294.4117645821357 L420.70588234366016 1290.0 L420.0 1290.7058823436603 L425.2941174985628 1296.0 L430.4117645821357 1290.7941176037475 Z "></path>\
+              	    </defs>\
+              	    <g transform="rotate(270.0 425.20588229106784 1293.0)" style="mix-blend-mode:normal">\
+              	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Path_3-d1224" fill="#000000" fill-opacity="1.0"></use>\
+              	    </g>\
+              	  </g>\
+              	</svg>\
+\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+\
+        <div id="s-Button_1" class="button multiline manualfit firer mouseenter mouseleave commentable non-processed" customid="Button"   datasizewidth="150.0px" datasizeheight="45.0px" dataX="127.2" dataY="1271.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Button_1_0">Button</span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Paragraph_16" class="richtext manualfit firer ie-background commentable non-processed" customid="Text"   datasizewidth="322.2px" datasizeheight="46.0px" dataX="116.1" dataY="1210.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Paragraph_16_0">DESIGNATION</span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Paragraph_17" class="richtext manualfit firer ie-background commentable non-processed" customid="H3"   datasizewidth="304.8px" datasizeheight="30.0px" dataX="124.8" dataY="1159.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Paragraph_17_0">JOHN DOW</span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+\
+\
+      <div id="s-Group_12" class="group firer ie-background commentable non-processed" customid="Card border" datasizewidth="0.0px" datasizeheight="0.0px" >\
+        <div id="s-Rectangle_2" class="rectangle manualfit firer commentable non-processed" customid="BG"   datasizewidth="377.0px" datasizeheight="524.0px" datasizewidthpx="377.01775926484675" datasizeheightpx="524.0000000000001" dataX="498.5" dataY="831.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Rectangle_2_0"></span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+\
+        <div id="s-Image_18" class="image firer ie-background commentable non-processed" customid="Image"   datasizewidth="377.0px" datasizeheight="307.0px" dataX="498.5" dataY="831.0"   alt="image">\
+          <div class="borderLayer">\
+          	<div class="imageViewport">\
+          		<img src="./images/59f6d4d1-982b-433a-b5bc-30d759c47228.png" />\
+          	</div>\
+          </div>\
+        </div>\
+\
+\
+        <div id="s-Group_13" class="group firer ie-background commentable non-processed" customid="Link" datasizewidth="0.0px" datasizeheight="0.0px" >\
+          <div id="s-Paragraph_18" class="richtext autofit firer mouseenter mouseleave ie-background commentable non-processed" customid="Lorem ipsum link"   datasizewidth="113.4px" datasizeheight="17.0px" dataX="701.5" dataY="1284.0" >\
+            <div class="backgroundLayer">\
+              <div class="colorLayer"></div>\
+              <div class="imageLayer"></div>\
+            </div>\
+            <div class="borderLayer">\
+              <div class="paddingLayer">\
+                <div class="content">\
+                  <div class="valign">\
+                    <span id="rtr-s-Paragraph_18_0">Lorem ipsum link</span>\
+                  </div>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+          <div id="s-Path_4" class="path firer mouseenter mouseleave commentable non-processed" customid="chevron"   datasizewidth="10.4px" datasizeheight="6.0px" dataX="821.5" dataY="1290.0"  >\
+            <div class="borderLayer">\
+            	<div class="imageViewport">\
+              	<?xml version="1.0" encoding="UTF-8"?>\
+              	<svg xmlns="http://www.w3.org/2000/svg" width="10.411764144897461" height="6.0" viewBox="821.4911193847657 1290.0 10.411764144897461 6.0" preserveAspectRatio="none">\
+              	  <g>\
+              	    <defs>\
+              	      <path id="s-Path_4-d1224" d="M831.1087658372306 1290.0 L826.7411190692118 1294.4117645821357 L822.1970017284259 1290.0 L821.4911193847657 1290.7058823436603 L826.7852368833286 1296.0 L831.9028839669014 1290.7941176037475 Z "></path>\
+              	    </defs>\
+              	    <g transform="rotate(270.0 826.6970016758336 1293.0)" style="mix-blend-mode:normal">\
+              	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Path_4-d1224" fill="#000000" fill-opacity="1.0"></use>\
+              	    </g>\
+              	  </g>\
+              	</svg>\
+\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+\
+        <div id="s-Button_2" class="button multiline manualfit firer mouseenter mouseleave commentable non-processed" customid="Button"   datasizewidth="150.0px" datasizeheight="45.0px" dataX="528.7" dataY="1271.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Button_2_0">Button</span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Paragraph_19" class="richtext manualfit firer ie-background commentable non-processed" customid="Text"   datasizewidth="322.2px" datasizeheight="59.0px" dataX="517.6" dataY="1202.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Paragraph_19_0">DESIGNATION</span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Paragraph_20" class="richtext manualfit firer ie-background commentable non-processed" customid="H3"   datasizewidth="304.8px" datasizeheight="30.0px" dataX="526.3" dataY="1159.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Paragraph_20_0">RECHARD ROE</span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+\
+\
+      <div id="s-Group_14" class="group firer ie-background commentable non-processed" customid="Card border" datasizewidth="0.0px" datasizeheight="0.0px" >\
+        <div id="s-Rectangle_3" class="rectangle manualfit firer commentable non-processed" customid="BG"   datasizewidth="377.0px" datasizeheight="524.0px" datasizewidthpx="377.01775926484675" datasizeheightpx="524.0000000000001" dataX="896.5" dataY="831.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Rectangle_3_0"></span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+\
+        <div id="s-Image_20" class="image firer ie-background commentable non-processed" customid="Image"   datasizewidth="377.0px" datasizeheight="308.0px" dataX="896.5" dataY="831.0"   alt="image">\
+          <div class="borderLayer">\
+          	<div class="imageViewport">\
+          		<img src="./images/f54547fa-bef3-4d95-82be-5867c9bd3fa9.png" />\
+          	</div>\
+          </div>\
+        </div>\
+\
+\
+        <div id="s-Group_15" class="group firer ie-background commentable non-processed" customid="Link" datasizewidth="0.0px" datasizeheight="0.0px" >\
+          <div id="s-Paragraph_21" class="richtext autofit firer mouseenter mouseleave ie-background commentable non-processed" customid="Lorem ipsum link"   datasizewidth="113.4px" datasizeheight="17.0px" dataX="1099.5" dataY="1284.0" >\
+            <div class="backgroundLayer">\
+              <div class="colorLayer"></div>\
+              <div class="imageLayer"></div>\
+            </div>\
+            <div class="borderLayer">\
+              <div class="paddingLayer">\
+                <div class="content">\
+                  <div class="valign">\
+                    <span id="rtr-s-Paragraph_21_0">Lorem ipsum link</span>\
+                  </div>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+          <div id="s-Path_5" class="path firer mouseenter mouseleave commentable non-processed" customid="chevron"   datasizewidth="10.4px" datasizeheight="6.0px" dataX="1219.5" dataY="1290.0"  >\
+            <div class="borderLayer">\
+            	<div class="imageViewport">\
+              	<?xml version="1.0" encoding="UTF-8"?>\
+              	<svg xmlns="http://www.w3.org/2000/svg" width="10.411764144897461" height="6.0" viewBox="1219.4911193847656 1290.0 10.411764144897461 6.0" preserveAspectRatio="none">\
+              	  <g>\
+              	    <defs>\
+              	      <path id="s-Path_5-d1224" d="M1229.1087658372305 1290.0 L1224.7411190692117 1294.4117645821357 L1220.197001728426 1290.0 L1219.4911193847656 1290.7058823436603 L1224.7852368833285 1296.0 L1229.9028839669013 1290.7941176037475 Z "></path>\
+              	    </defs>\
+              	    <g transform="rotate(270.0 1224.6970016758335 1293.0)" style="mix-blend-mode:normal">\
+              	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Path_5-d1224" fill="#000000" fill-opacity="1.0"></use>\
+              	    </g>\
+              	  </g>\
+              	</svg>\
+\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+\
+        <div id="s-Button_3" class="button multiline manualfit firer mouseenter mouseleave commentable non-processed" customid="Button"   datasizewidth="150.0px" datasizeheight="45.0px" dataX="926.7" dataY="1271.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Button_3_0">Button</span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Paragraph_22" class="richtext manualfit firer ie-background commentable non-processed" customid="Text"   datasizewidth="322.2px" datasizeheight="50.0px" dataX="915.6" dataY="1209.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Paragraph_22_0">DESIGNATION</span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Paragraph_23" class="richtext manualfit firer ie-background commentable non-processed" customid="H3"   datasizewidth="304.8px" datasizeheight="30.0px" dataX="924.3" dataY="1161.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Paragraph_23_0">JOHN DOW</span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+\
+\
+      <div id="s-Group_22" class="group firer ie-background commentable non-processed" customid="Footer with input" datasizewidth="0.0px" datasizeheight="0.0px" >\
+        <div id="s-Rectangle_7" class="rectangle manualfit firer commentable non-processed" customid="BG"   datasizewidth="1366.0px" datasizeheight="352.0px" datasizewidthpx="1366.0" datasizeheightpx="352.0" dataX="0.0" dataY="2147.8" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Rectangle_7_0"></span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+\
+        <div id="s-Group_23" class="group firer ie-background commentable non-processed" customid="Subscribe" datasizewidth="0.0px" datasizeheight="0.0px" >\
+          <div id="s-Button_7" class="button multiline manualfit firer mouseenter mouseleave commentable non-processed" customid="Button"   datasizewidth="150.0px" datasizeheight="45.0px" dataX="977.0" dataY="2332.3" >\
+            <div class="backgroundLayer">\
+              <div class="colorLayer"></div>\
+              <div class="imageLayer"></div>\
+            </div>\
+            <div class="borderLayer">\
+              <div class="paddingLayer">\
+                <div class="content">\
+                  <div class="valign">\
+                    <span id="rtr-s-Button_7_0">Button</span>\
+                  </div>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+          <div id="s-Input_1" class="text firer commentable non-processed" customid="Input"  datasizewidth="325.3px" datasizeheight="45.0px" dataX="977.0" dataY="2263.3" ><div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100"  tabindex="-1" placeholder="Enter your text here"/></div></div>  </div></div></div>\
+          <div id="s-Paragraph_33" class="richtext autofit firer ie-background commentable non-processed" customid="Lorem ipsum dolor sit ame"   datasizewidth="168.8px" datasizeheight="16.0px" dataX="977.0" dataY="2219.3" >\
+            <div class="backgroundLayer">\
+              <div class="colorLayer"></div>\
+              <div class="imageLayer"></div>\
+            </div>\
+            <div class="borderLayer">\
+              <div class="paddingLayer">\
+                <div class="content">\
+                  <div class="valign">\
+                    <span id="rtr-s-Paragraph_33_0">Lorem ipsum dolor sit amet</span>\
+                  </div>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+          <div id="s-Paragraph_34" class="richtext autofit firer ie-background commentable non-processed" customid="Subscribe"   datasizewidth="106.7px" datasizeheight="27.0px" dataX="977.0" dataY="2186.3" >\
+            <div class="backgroundLayer">\
+              <div class="colorLayer"></div>\
+              <div class="imageLayer"></div>\
+            </div>\
+            <div class="borderLayer">\
+              <div class="paddingLayer">\
+                <div class="content">\
+                  <div class="valign">\
+                    <span id="rtr-s-Paragraph_34_0">Subscribe</span>\
+                  </div>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+\
+        <div id="s-Path_9" class="path firer ie-background commentable non-processed" customid="Vertical divider"   datasizewidth="3.0px" datasizeheight="208.0px" dataX="875.0" dataY="2188.3"  >\
+          <div class="borderLayer">\
+          	<div class="imageViewport">\
+            	<?xml version="1.0" encoding="UTF-8"?>\
+            	<svg xmlns="http://www.w3.org/2000/svg" width="2.0" height="208.0315399169922" viewBox="875.0000082236544 2188.341643462073 2.0 208.0315399169922" preserveAspectRatio="none">\
+            	  <g>\
+            	    <defs>\
+            	      <path id="s-Path_9-d1224" d="M876.0000000000001 2189.341643462073 L876.0000000000001 2395.373186994692 "></path>\
+            	    </defs>\
+            	    <g style="mix-blend-mode:normal">\
+            	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Path_9-d1224" fill="none" stroke-width="1.0" stroke="#99999932" stroke-linecap="square"></use>\
+            	    </g>\
+            	  </g>\
+            	</svg>\
+\
+            </div>\
+          </div>\
+        </div>\
+\
+        <div id="s-Group_24" class="group firer ie-background commentable non-processed" customid="Description" datasizewidth="0.0px" datasizeheight="0.0px" >\
+          <div id="s-Paragraph_35" class="richtext autofit firer ie-background commentable non-processed" customid="Lorem Street, 180"   datasizewidth="112.1px" datasizeheight="16.0px" dataX="61.0" dataY="2376.3" >\
+            <div class="backgroundLayer">\
+              <div class="colorLayer"></div>\
+              <div class="imageLayer"></div>\
+            </div>\
+            <div class="borderLayer">\
+              <div class="paddingLayer">\
+                <div class="content">\
+                  <div class="valign">\
+                    <span id="rtr-s-Paragraph_35_0">Lorem Street, 180</span>\
+                  </div>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+          <div id="s-Paragraph_36" class="richtext autofit firer ie-background commentable non-processed" customid="+00 000 000 000"   datasizewidth="105.5px" datasizeheight="16.0px" dataX="61.0" dataY="2399.3" >\
+            <div class="backgroundLayer">\
+              <div class="colorLayer"></div>\
+              <div class="imageLayer"></div>\
+            </div>\
+            <div class="borderLayer">\
+              <div class="paddingLayer">\
+                <div class="content">\
+                  <div class="valign">\
+                    <span id="rtr-s-Paragraph_36_0">+00 000 000 000</span>\
+                  </div>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+\
+\
+        <div id="s-Group_25" class="group firer ie-background commentable non-processed" customid="Social icons" datasizewidth="0.0px" datasizeheight="0.0px" >\
+          <div id="s-Group_26" class="group firer ie-background commentable non-processed" customid="Linkedin" datasizewidth="0.0px" datasizeheight="0.0px" >\
+            <div id="s-Path_10" class="path firer mouseenter mouseleave commentable non-processed" customid="bg"   datasizewidth="19.2px" datasizeheight="19.2px" dataX="61.0" dataY="2327.3"  >\
+              <div class="borderLayer">\
+              	<div class="imageViewport">\
+                	<?xml version="1.0" encoding="UTF-8"?>\
+                	<svg xmlns="http://www.w3.org/2000/svg" width="19.248985290527344" height="19.20000648498535" viewBox="61.000000000000114 2327.341643462073 19.248985290527344 19.20000648498535" preserveAspectRatio="none">\
+                	  <g>\
+                	    <defs>\
+                	      <path id="s-Path_10-d1224" d="M76.08571880551712 2346.541650063833 L65.163266656598 2346.541650063833 C62.86122518695918 2346.541650063833 61.000000000000114 2344.6804249936504 61.000000000000114 2342.378383407235 L61.000000000000114 2331.504910118671 C61.000000000000114 2329.2028685322557 62.8612250701827 2327.341643462073 65.163266656598 2327.341643462073 L76.08571880551712 2327.341643462073 C78.38776027515593 2327.341643462073 80.248985462115 2329.2028685322557 80.248985462115 2331.504910118671 L80.248985462115 2342.42736226759 C80.20000660175982 2344.6804253439796 78.3387818819067 2346.541650063833 76.08571880551712 2346.541650063833 Z "></path>\
+                	    </defs>\
+                	    <g style="mix-blend-mode:normal">\
+                	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Path_10-d1224" fill="#82888C" fill-opacity="1.0"></use>\
+                	    </g>\
+                	  </g>\
+                	</svg>\
+\
+                </div>\
+              </div>\
+            </div>\
+            <div id="s-Path_11" class="path firer mouseenter mouseleave commentable non-processed" customid="i"   datasizewidth="2.4px" datasizeheight="7.8px" dataX="65.0" dataY="2334.3"  >\
+              <div class="borderLayer">\
+              	<div class="imageViewport">\
+                	<?xml version="1.0" encoding="UTF-8"?>\
+                	<svg xmlns="http://www.w3.org/2000/svg" width="2.40000057220459" height="7.78775691986084" viewBox="65.00000000000011 2334.341643462073 2.40000057220459 7.78775691986084" preserveAspectRatio="none">\
+                	  <g>\
+                	    <defs>\
+                	      <path id="s-Path_11-d1224" d="M65.00000000000011 2334.341643462073 L67.40000082521999 2334.341643462073 L67.40000082521999 2342.129400903455 L65.00000000000011 2342.129400903455 Z "></path>\
+                	    </defs>\
+                	    <g style="mix-blend-mode:normal">\
+                	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Path_11-d1224" fill="#FFFFFF" fill-opacity="1.0"></use>\
+                	    </g>\
+                	  </g>\
+                	</svg>\
+\
+                </div>\
+              </div>\
+            </div>\
+            <div id="s-Path_12" class="path firer mouseenter mouseleave commentable non-processed" customid="."   datasizewidth="2.8px" datasizeheight="2.8px" dataX="65.0" dataY="2330.3"  >\
+              <div class="borderLayer">\
+              	<div class="imageViewport">\
+                	<?xml version="1.0" encoding="UTF-8"?>\
+                	<svg xmlns="http://www.w3.org/2000/svg" width="2.840817451477051" height="2.840817451477051" viewBox="64.99999952316296 2330.341643462073 2.840817451477051 2.840817451477051" preserveAspectRatio="none">\
+                	  <g>\
+                	    <defs>\
+                	      <path id="s-Path_12-d1224" d="M66.42040867072649 2333.182460803526 C67.20408240599905 2333.182460803526 67.84081734145286 2332.5457259264604 67.84081734145286 2331.7620521327995 C67.84081734145286 2330.9783783391385 67.2040824643873 2330.341643462073 66.42040867072649 2330.341643462073 C65.63673493545393 2330.341643462073 65.00000000000011 2330.9783783391385 65.00000000000011 2331.7620521327995 C65.00000000000011 2332.5457259264604 65.6367347602892 2333.182460803526 66.42040867072649 2333.182460803526 Z "></path>\
+                	    </defs>\
+                	    <g style="mix-blend-mode:normal">\
+                	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Path_12-d1224" fill="#FFFFFF" fill-opacity="1.0"></use>\
+                	    </g>\
+                	  </g>\
+                	</svg>\
+\
+                </div>\
+              </div>\
+            </div>\
+            <div id="s-Path_13" class="path firer mouseenter mouseleave commentable non-processed" customid="n"   datasizewidth="7.5px" datasizeheight="8.0px" dataX="70.0" dataY="2334.3"  >\
+              <div class="borderLayer">\
+              	<div class="imageViewport">\
+                	<?xml version="1.0" encoding="UTF-8"?>\
+                	<svg xmlns="http://www.w3.org/2000/svg" width="7.4938812255859375" height="8.032655715942383" viewBox="69.99999928474438 2334.341643462073 7.4938812255859375 8.032655715942383" preserveAspectRatio="none">\
+                	  <g>\
+                	    <defs>\
+                	      <path id="s-Path_13-d1224" d="M72.30204158641553 2338.2600120800475 C72.30204158641553 2337.1824606867494 72.79183766366236 2336.4967462486698 73.77142981815602 2336.4967462486698 C74.65306273384503 2336.4967462486698 75.09387925007778 2337.133481125735 75.09387925007778 2338.2600120800475 C75.09387925007778 2339.38654303436 75.09387925007778 2342.3253196146175 75.09387925007778 2342.3253196146175 L77.49388007529785 2342.3253196146175 C77.49388007529785 2342.3253196146175 77.49388007529785 2339.4845022731647 77.49388007529785 2337.4273588421493 C77.49388007529785 2335.370215411134 76.31836944319485 2334.341643462073 74.65306273384503 2334.341643462073 C72.98775602449521 2334.341643462073 72.30204146963905 2335.615113216204 72.30204146963905 2335.615113216204 L72.30204146963905 2334.5865415006965 L70.00000000000011 2334.5865415006965 L70.00000000000011 2342.3742989420784 L72.30204146963905 2342.3742989420784 C72.30204158641553 2342.3253200817235 72.30204158641553 2339.4355224785977 72.30204158641553 2338.2600120800475 Z "></path>\
+                	    </defs>\
+                	    <g style="mix-blend-mode:normal">\
+                	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Path_13-d1224" fill="#FFFFFF" fill-opacity="1.0"></use>\
+                	    </g>\
+                	  </g>\
+                	</svg>\
+\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+\
+\
+          <div id="s-Group_27" class="group firer ie-background commentable non-processed" customid="Instagram" datasizewidth="0.0px" datasizeheight="0.0px" >\
+            <div id="s-Path_14" class="path firer mouseenter mouseleave commentable non-processed" customid="Path 3"   datasizewidth="18.9px" datasizeheight="18.9px" dataX="105.0" dataY="2327.5"  >\
+              <div class="borderLayer">\
+              	<div class="imageViewport">\
+                	<?xml version="1.0" encoding="UTF-8"?>\
+                	<svg xmlns="http://www.w3.org/2000/svg" width="18.90377426147461" height="18.900022506713867" viewBox="105.00000000000011 2327.4916351103557 18.90377426147461 18.900022506713867" preserveAspectRatio="none">\
+                	  <g>\
+                	    <defs>\
+                	      <path id="s-Path_14-d1224" d="M114.44813614581943 2329.19447514938 C116.97239024210322 2329.19447514938 117.268699173003 2329.205727396403 118.26639859831111 2329.2507363822588 C119.18908283182819 2329.291994620597 119.68793247294238 2329.4457753157503 120.02174903550761 2329.5770515258005 C120.46433740797328 2329.749585969718 120.77940033355542 2329.952126411658 121.10946620449394 2330.2821922825965 C121.4395321112024 2330.612258189305 121.64582329842395 2330.927321114887 121.81460696128983 2331.3699094515828 C121.94213242605832 2331.703726085688 122.09966387096443 2332.202575726802 122.14092210483174 2333.125259888779 C122.18593109292313 2334.1229590994676 122.19718333771036 2334.419268244987 122.19718333771036 2336.943522341271 C122.19718333771036 2339.4677764375547 122.1859310906875 2339.7640853684543 122.14092210483174 2340.7617847937627 C122.09966386649319 2341.6844690272796 121.94588317133991 2342.183318668394 121.81460696128983 2342.517135230959 C121.64207251737244 2342.9597236034247 121.43953207543248 2343.274786529007 121.10946620449394 2343.6048523999452 C120.77940029778549 2343.934918306654 120.46433737220335 2344.1412094938755 120.02174903550761 2344.3099931567413 C119.68793240140252 2344.4375186215098 119.18908276028833 2344.5950500664158 118.26639859831111 2344.6363083002834 C117.26869938762256 2344.6813172883744 116.97239024210322 2344.692569533162 114.44813614581943 2344.692569533162 C111.92388204953564 2344.692569533162 111.62757311863587 2344.681317286139 110.62987369332775 2344.6363083002834 C109.70718945981068 2344.5950500619447 109.20833981869647 2344.4412693667914 108.87452325613125 2344.3099931567413 C108.43193488366559 2344.137458712824 108.11687195808345 2343.934918270884 107.78680608714491 2343.6048523999452 C107.45674018043646 2343.274786493237 107.2504489932149 2342.9597235676547 107.08166533034903 2342.517135230959 C106.95413986558053 2342.183318596854 106.79660842067443 2341.6844689557397 106.7553501868071 2340.7617847937627 C106.71034119871572 2339.764085583074 106.69908895392851 2339.4677764375547 106.69908895392851 2336.943522341271 C106.69908895392851 2334.419268244987 106.71034120095135 2334.1229593140874 106.7553501868071 2333.125259888779 C106.79660842514566 2332.202575655262 106.95038912029895 2331.703726014148 107.08166533034903 2331.3699094515828 C107.25419977426641 2330.927321079117 107.45674021620638 2330.612258153535 107.78680608714491 2330.2821922825965 C108.11687199385338 2329.952126375888 108.43193491943552 2329.745835188666 108.87452325613125 2329.5770515258005 C109.20833989023633 2329.449526061032 109.70718953135054 2329.291994616126 110.62987369332775 2329.2507363822588 C111.62757311863587 2329.201976532633 111.92763302732175 2329.19447514938 114.44813614581943 2329.19447514938 M114.44813614581943 2327.4916351103557 C111.88262386932321 2327.4916351103557 111.56005952471777 2327.5028873573783 110.55110802452958 2327.5478963432342 C109.54590750212752 2327.5929053313257 108.85952063270422 2327.754187530456 108.25940081533244 2327.9867339525335 C107.63677649050126 2328.226781883059 107.11167165030096 2328.553097044486 106.58656688164051 2329.078201884686 C106.06146204144021 2329.603306724887 105.73889762529491 2330.1321623282533 105.49509894948763 2330.751035818378 C105.26255252741005 2331.35115563575 105.1012703193374 2332.037542648253 105.0562613401885 2333.046494148441 C105.01125224702295 2334.0516946350735 105.00000000000011 2334.374259265838 105.00000000000011 2336.939771256175 C105.00000000000011 2339.5052835326715 105.01125224702295 2339.827847877277 105.05626123287871 2340.836799377465 C105.1012702209701 2341.8420000429464 105.26255242010026 2342.5283870554495 105.49509884217784 2343.132257707528 C105.73514677270354 2343.754882032359 106.06146193413042 2344.279986872559 106.58656677433072 2344.80509164122 C107.11167161453103 2345.33019648142 107.64052721789787 2345.6527608975653 108.25940070802265 2345.8965595733725 C108.85952052539443 2346.12910599545 109.54590753789745 2346.290388203523 110.55485903808564 2346.335397182672 C111.56381046673395 2346.3804061707633 111.88262419125257 2346.3916584155504 114.45188715937547 2346.3916584155504 C117.02115012749837 2346.3916584155504 117.33996378047713 2346.3804061685278 118.34891528066531 2346.335397182672 C119.35411594614709 2346.2903881945804 120.04050295865011 2346.12910599545 120.6443736107283 2345.8965595733725 C121.26699793555947 2345.656511642847 121.79210277575977 2345.33019648142 122.31720754442023 2344.80509164122 C122.84231238462053 2344.2799868010193 123.16487680076582 2343.7511311976527 123.40867547657311 2343.132257707528 C123.64122189865068 2342.5321378901563 123.80250410672333 2341.8457508776532 123.84751308587224 2340.836799377465 C123.89252207396362 2339.8278479488167 123.90377431875083 2339.509034224298 123.90377431875083 2336.939771256175 C123.90377431875083 2334.370508288052 123.892522071728 2334.0516946350735 123.84751308587224 2333.0427431348853 C123.80250409778085 2332.0375424694034 123.64122189865068 2331.3511554569004 123.40867547657311 2330.7472848048224 C123.1686275460474 2330.124660479991 122.84231238462053 2329.5995556397907 122.31720754442023 2329.0744508711305 C121.79210270421993 2328.54934603093 121.26324710085308 2328.2267816147846 120.6443736107283 2327.9829829389773 C120.04425379335652 2327.7504365168998 119.3578667808535 2327.5891543088273 118.34891528066531 2327.544145329678 C117.3362127669211 2327.5028873573783 117.01364813615622 2327.4916351103557 114.44813614581943 2327.4916351103557 L114.44813614581943 2327.4916351103557 Z "></path>\
+                	    </defs>\
+                	    <g style="mix-blend-mode:normal">\
+                	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Path_14-d1224" fill="#82888C" fill-opacity="1.0"></use>\
+                	    </g>\
+                	  </g>\
+                	</svg>\
+\
+                </div>\
+              </div>\
+            </div>\
+            <div id="s-Path_15" class="path firer mouseenter mouseleave commentable non-processed" customid="Path 4"   datasizewidth="9.7px" datasizeheight="9.7px" dataX="109.6" dataY="2332.1"  >\
+              <div class="borderLayer">\
+              	<div class="imageViewport">\
+                	<?xml version="1.0" encoding="UTF-8"?>\
+                	<svg xmlns="http://www.w3.org/2000/svg" width="9.706939697265625" height="9.706932067871094" viewBox="109.5984183653087 2332.088177968886 9.706939697265625 9.706932067871094" preserveAspectRatio="none">\
+                	  <g>\
+                	    <defs>\
+                	      <path id="s-Path_15-d1224" d="M114.45188715937542 2332.088177968886 C111.77385241712197 2332.088177968886 109.5984183653087 2334.2598616152322 109.5984183653087 2336.941646762953 C109.5984183653087 2339.6234319106734 111.77010201165471 2341.7951155570195 114.45188715937542 2341.7951155570195 C117.13367230709613 2341.7951155570195 119.30535595344213 2339.6234319106734 119.30535595344213 2336.941646762953 C119.30535595344213 2334.2598616152322 117.13367259325554 2332.088177968886 114.45188715937542 2332.088177968886 Z M114.45188715937542 2340.088525112528 C112.71153963176538 2340.088525112528 111.30125811817358 2338.678243598936 111.30125811817358 2336.937896071326 C111.30125811817358 2335.197548543716 112.71153963176538 2333.7872670301244 114.45188715937542 2333.7872670301244 C116.19223468698547 2333.7872670301244 117.60251620057724 2335.197548543716 117.60251620057724 2336.937896071326 C117.60251620057724 2338.678243312777 116.19223440082604 2340.088525112528 114.45188715937542 2340.088525112528 Z "></path>\
+                	    </defs>\
+                	    <g style="mix-blend-mode:normal">\
+                	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Path_15-d1224" fill="#82888C" fill-opacity="1.0"></use>\
+                	    </g>\
+                	  </g>\
+                	</svg>\
+\
+                </div>\
+              </div>\
+            </div>\
+            <div id="s-Path_16" class="path firer mouseenter mouseleave commentable non-processed" customid="Circle 1"   datasizewidth="2.3px" datasizeheight="2.3px" dataX="118.0" dataY="2330.5"  >\
+              <div class="borderLayer">\
+              	<div class="imageViewport">\
+                	<?xml version="1.0" encoding="UTF-8"?>\
+                	<svg xmlns="http://www.w3.org/2000/svg" width="2.2655029296875" height="2.275604248046875" viewBox="117.9999853046412 2330.491638977452 2.2655029296875 2.275604248046875" preserveAspectRatio="none">\
+                	  <g>\
+                	    <defs>\
+                	      <path id="s-Path_16-d1224" d="M118.00001132443043 2331.629438336803 C117.99723235366349 2332.2508335375496 118.50627658943074 2332.7644512681 119.12767179017715 2332.767230238867 C119.75289834253095 2332.770026344002 120.26825979737578 2332.254664889157 120.26546369224076 2331.629438336803 C120.2682426630077 2331.0080431360566 119.75919842724045 2330.4944254055063 119.13780322649404 2330.4916464347393 C118.51257667414023 2330.4888503296042 117.99721521929536 2331.004211784449 118.00001132443043 2331.629438336803 "></path>\
+                	    </defs>\
+                	    <g style="mix-blend-mode:normal">\
+                	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Path_16-d1224" fill="#82888C" fill-opacity="1.0"></use>\
+                	    </g>\
+                	  </g>\
+                	</svg>\
+\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+\
+          <div id="s-Path_17" class="path firer mouseenter mouseleave commentable non-processed" customid="Facebook"   datasizewidth="19.0px" datasizeheight="18.9px" dataX="148.0" dataY="2327.5"  >\
+            <div class="borderLayer">\
+            	<div class="imageViewport">\
+              	<?xml version="1.0" encoding="UTF-8"?>\
+              	<svg xmlns="http://www.w3.org/2000/svg" width="19.0" height="18.884960174560547" viewBox="148.0000000000001 2327.499166407452 19.0 18.884960174560547" preserveAspectRatio="none">\
+              	  <g>\
+              	    <defs>\
+              	      <path id="s-Path_17-d1224" d="M166.9999999999999 2336.999166407452 C166.9999999999999 2331.7519007258275 162.7472653985023 2327.499166407452 157.5 2327.499166407452 C152.2527346014977 2327.499166407452 148.0000000000001 2331.7519007258275 148.0000000000001 2336.999166407452 C148.0000000000001 2341.7417446457007 151.47343744337567 2345.671627231703 156.01562500000003 2346.3841271184538 L156.01562500000003 2339.745260157452 L153.60351562500006 2339.745260157452 L153.60351562500006 2336.999166407452 L156.01562500000003 2336.999166407452 L156.01562500000003 2334.9061978839495 C156.01562500000003 2332.525631137953 157.43320301175117 2331.210103907452 159.60410201549527 2331.210103907452 C160.64316451549527 2331.210103907452 161.73046917468304 2331.395650782452 161.73046917468304 2331.395650782452 L161.73046917468304 2333.733541407452 L160.53183639049527 2333.733541407452 C159.35175829380748 2333.733541407452 158.98437542468307 2334.466451563702 158.98437542468307 2335.217916407452 L158.98437542468307 2336.999166407452 L161.61914104968304 2336.999166407452 L161.19794962927693 2339.745260157452 L158.98437499999997 2339.745260157452 L158.98437499999997 2346.3841271184538 C163.5265622735023 2345.671627797947 166.9999999999999 2341.7417440794566 166.9999999999999 2336.999166407452 Z "></path>\
+              	    </defs>\
+              	    <g style="mix-blend-mode:normal">\
+              	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Path_17-d1224" fill="#82888C" fill-opacity="1.0"></use>\
+              	    </g>\
+              	  </g>\
+              	</svg>\
+\
+              </div>\
+            </div>\
+          </div>\
+          <div id="s-Path_18" class="path firer mouseenter mouseleave commentable non-processed" customid="Twitter"   datasizewidth="19.7px" datasizeheight="16.0px" dataX="191.0" dataY="2328.9"  >\
+            <div class="borderLayer">\
+            	<div class="imageViewport">\
+              	<?xml version="1.0" encoding="UTF-8"?>\
+              	<svg xmlns="http://www.w3.org/2000/svg" width="19.69230842590332" height="16.0" viewBox="191.0000000000001 2328.941646762953 19.69230842590332 16.0" preserveAspectRatio="none">\
+              	  <g>\
+              	    <defs>\
+              	      <path id="s-Path_18-d1224" d="M210.69230785595607 2330.7878005442117 C209.95384628476486 2331.1570313298075 209.21538471357368 2331.280108246113 208.35384633611656 2331.403185162418 C209.21538478693324 2330.910877460517 209.83076947849895 2330.049338973021 210.07692323774992 2329.1878005955637 C209.33846166655874 2329.6801082974644 208.47692328910162 2330.0493390463803 207.49230795865944 2330.1724159993655 C206.75384638746826 2329.4339544281743 205.64615410404105 2328.941646762953 204.5384616738947 2328.941646762953 C202.44615420674444 2328.9416466895937 200.60000035212602 2330.7878005442117 200.60000035212602 2333.003185111066 C200.60000035212602 2333.372415896662 200.60000035212602 2333.6185697292726 200.72307727760122 2333.864723561883 C197.39999986795289 2333.7416468289766 194.32307707036045 2332.14164658689 192.353846262757 2329.680108260785 C191.9846154771614 2330.295492878991 191.86153852417635 2331.033954450182 191.86153852417635 2331.772415874654 C191.86153852417635 2333.1262620640514 192.60000009536753 2334.3570311537446 193.70769237879477 2335.0954928716546 C192.96923088096315 2335.0954928716546 192.353846262757 2334.849339259123 191.73846164455085 2334.6031850597146 C191.73846164455085 2334.6031850597146 191.73846164455085 2334.6031850597146 191.73846164455085 2334.6031850597146 C191.73846164455085 2336.572415867318 193.09230783394818 2338.1724159626856 194.9384615418475 2338.5416466749216 C194.6923077825965 2338.6647237746256 194.32307707036045 2338.7878005808916 193.95384635812442 2338.7878005808916 C193.70769245215433 2338.7878005808916 193.46153854618422 2338.6647237746256 193.21538464021413 2338.6647237746256 C193.707692342115 2340.264723723274 195.18461544781758 2341.4954929596865 197.03076915571688 2341.4954929596865 C195.67692296631955 2342.6031852431133 193.9538460646862 2343.21856986132 191.98461540380185 2343.21856986132 C191.61538461820626 2343.21856986132 191.3692307855957 2343.21856986132 191.0000000000001 2343.21856986132 C192.72307697499303 2344.326262144747 194.9384616885666 2344.941646762953 197.15384625542106 2344.941646762953 C204.5384616738947 2344.941646762953 208.6000003888058 2338.7878005808916 208.6000003888058 2333.372416410179 C208.6000003888058 2333.249339484704 208.6000003888058 2333.0031856245832 208.6000003888058 2332.880108708278 C209.46153861954377 2332.38780049286 210.20000063089236 2331.649339068388 210.69230785595607 2330.7878005442117 Z "></path>\
+              	    </defs>\
+              	    <g style="mix-blend-mode:normal">\
+              	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Path_18-d1224" fill="#82888C" fill-opacity="1.0"></use>\
+              	    </g>\
+              	  </g>\
+              	</svg>\
+\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+\
+        <div id="s-Paragraph_37" class="richtext manualfit firer ie-background commentable non-processed" customid="STACKCOMMERCE"   datasizewidth="257.8px" datasizeheight="50.0px" dataX="464.2" dataY="2203.3" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Paragraph_37_0">STACKCOMMERCE</span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+\
+\
+      <div id="s-Image_29" class="image firer ie-background commentable non-processed" customid="Image 2"   datasizewidth="175.0px" datasizeheight="118.6px" dataX="62.0" dataY="2166.0"   alt="image">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+        		<img src="./images/e45f1bd8-a9d4-4071-87ce-08b5f4451b43.png" />\
+        	</div>\
+        </div>\
+      </div>\
+\
+      <div id="s-Paragraph_38" class="richtext manualfit firer ie-background commentable non-processed" customid="HOME"   datasizewidth="146.8px" datasizeheight="34.0px" dataX="474.0" dataY="2250.6" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Paragraph_38_0">HOME</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+\
+      <div id="s-Image_30" class="image firer ie-background commentable non-processed" customid="Image 30"   datasizewidth="377.0px" datasizeheight="301.8px" dataX="97.0" dataY="831.0"   alt="image">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+        		<img src="./images/0de37eab-1fce-4929-8e88-f06a6ba8ca4c.png" />\
+        	</div>\
+        </div>\
+      </div>\
+\
+\
+      <div id="s-Image_19" class="image firer ie-background commentable non-processed" customid="Image 19"   datasizewidth="372.5px" datasizeheight="301.6px" dataX="898.2" dataY="831.1"   alt="image">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+        		<img src="./images/70752cf8-c2c5-4f88-ad04-f437c8813c4b.png" />\
+        	</div>\
+        </div>\
+      </div>\
+\
+\
+      <div id="s-Image_21" class="image firer ie-background commentable non-processed" customid="Image 21"   datasizewidth="377.0px" datasizeheight="301.7px" dataX="494.0" dataY="831.1"   alt="image">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+        		<img src="./images/e3b92daa-a161-44fe-a16c-2d2ede64f30a.png" />\
+        	</div>\
+        </div>\
+      </div>\
+\
+      <div id="s-Paragraph_39" class="richtext manualfit firer ie-background commentable non-processed" customid="H1"   datasizewidth="1347.4px" datasizeheight="53.0px" dataX="9.3" dataY="1446.0" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Paragraph_39_0">HAPPY CLIENTS</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+\
+      <div id="s-Group_28" class="group firer ie-background commentable non-processed" customid="Quote with image" datasizewidth="0.0px" datasizeheight="0.0px" >\
+        <div id="s-Rectangle_5" class="rectangle manualfit firer commentable non-processed" customid="BG"   datasizewidth="1366.0px" datasizeheight="333.0px" datasizewidthpx="1366.0" datasizeheightpx="333.0000000000001" dataX="0.0" dataY="1573.2" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Rectangle_5_0"></span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+\
+        <div id="s-Group_17" class="group firer ie-background commentable non-processed" customid="user img" datasizewidth="0.0px" datasizeheight="0.0px" >\
+          <div id="shapewrapper-s-Ellipse_10" customid="Ellipse" class="shapewrapper shapewrapper-s-Ellipse_10 non-processed"   datasizewidth="58.0px" datasizeheight="58.0px" datasizewidthpx="58.0" datasizeheightpx="58.0" dataX="631.0" dataY="1782.2" >\
+              <div class="backgroundLayer">\
+                <div class="colorLayer"></div>\
+                <div class="imageLayer"></div>\
+              </div>\
+              <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" id="svg-s-Ellipse_10" class="svgContainer" style="width:100%; height:100%;">\
+                  <g>\
+                      <g clip-path="url(#clip-s-Ellipse_10)">\
+                              <ellipse id="s-Ellipse_10" class="ellipse shape non-processed-shape manualfit firer commentable non-processed" customid="Ellipse" cx="29.0" cy="29.0" rx="29.0" ry="29.0">\
+                              </ellipse>\
+                      </g>\
+                  </g>\
+                  <defs>\
+                      <clipPath id="clip-s-Ellipse_10" class="clipPath">\
+                              <ellipse cx="29.0" cy="29.0" rx="29.0" ry="29.0">\
+                              </ellipse>\
+                      </clipPath>\
+                  </defs>\
+              </svg>\
+              <div class="paddingLayer">\
+                  <div id="shapert-s-Ellipse_10" class="content firer" >\
+                      <div class="valign">\
+                          <span id="rtr-s-Ellipse_10_0"></span>\
+                      </div>\
+                  </div>\
+              </div>\
+          </div>\
+\
+          <div id="s-Group_18" class="group firer ie-background commentable non-processed" customid="user icon" datasizewidth="0.0px" datasizeheight="0.0px" >\
+            <div id="s-Path_25" class="path firer commentable non-processed" customid="Fill-1"   datasizewidth="12.7px" datasizeheight="12.7px" dataX="654.0" dataY="1797.2"  >\
+              <div class="borderLayer">\
+              	<div class="imageViewport">\
+                	<?xml version="1.0" encoding="UTF-8"?>\
+                	<svg xmlns="http://www.w3.org/2000/svg" width="12.666666030883789" height="12.666666984558105" viewBox="654.0000000000001 1797.200380391826 12.666666030883789 12.666666984558105" preserveAspectRatio="none">\
+                	  <g>\
+                	    <defs>\
+                	      <path id="s-Path_25-d1224" d="M660.333333913018 1797.200380391826 C656.841133117676 1797.200380391826 654.0000000000001 1800.041513804019 654.0000000000001 1803.5337137158097 C654.0000000000001 1807.0259139221173 656.841133117676 1809.867047039793 660.333333913018 1809.867047039793 C663.8255335302918 1809.867047039793 666.6666666479676 1807.0259139221173 666.6666666479676 1803.5337137158097 C666.6666666479676 1800.041513804019 663.8255335302918 1797.200380391826 660.333333913018 1797.200380391826 "></path>\
+                	    </defs>\
+                	    <g style="mix-blend-mode:normal">\
+                	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Path_25-d1224" fill="#000000" fill-opacity="1.0"></use>\
+                	    </g>\
+                	  </g>\
+                	</svg>\
+\
+                </div>\
+              </div>\
+            </div>\
+            <div id="s-Path_26" class="path firer commentable non-processed" customid="Fill-3"   datasizewidth="21.0px" datasizeheight="9.8px" dataX="650.0" dataY="1811.2"  >\
+              <div class="borderLayer">\
+              	<div class="imageViewport">\
+                	<?xml version="1.0" encoding="UTF-8"?>\
+                	<svg xmlns="http://www.w3.org/2000/svg" width="21.0" height="9.833333969116211" viewBox="650.0000000000001 1811.200380391826 21.0 9.833333969116211" preserveAspectRatio="none">\
+                	  <g>\
+                	    <defs>\
+                	      <path id="s-Path_26-d1224" d="M661.8999997517113 1811.200380391826 L659.1000000658629 1811.200380391826 C656.672959713322 1811.200380391826 654.3863866258541 1812.158991038691 652.6615865861139 1813.8996764455442 C650.9452333695219 1815.6318279258262 650.0000000000001 1817.918262884789 650.0000000000001 1820.3379585706807 C650.0000000000001 1820.7222020309432 650.3134133394498 1821.0337139121543 650.6999999775077 1821.0337139121543 L670.3000011653934 1821.0337139121543 C670.686586625383 1821.0337139121543 670.9999999087872 1820.7222020309432 670.9999999087872 1820.3379585706807 C670.9999999087872 1817.918262884789 670.0547674052328 1815.6318279258262 668.3384138204945 1813.8996764455442 C666.6136134862372 1812.158991038691 664.327086637949 1811.200380391826 661.8999997517113 1811.200380391826 Z "></path>\
+                	    </defs>\
+                	    <g style="mix-blend-mode:normal">\
+                	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Path_26-d1224" fill="#000000" fill-opacity="1.0"></use>\
+                	    </g>\
+                	  </g>\
+                	</svg>\
+\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+\
+        </div>\
+\
+        <div id="s-Paragraph_46" class="richtext manualfit firer ie-background commentable non-processed" customid="DESIGNATION"   datasizewidth="92.8px" datasizeheight="13.0px" dataX="707.0" dataY="1818.2" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Paragraph_46_0">DESIGNATION</span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Paragraph_51" class="richtext manualfit firer ie-background commentable non-processed" customid="CLIENT NAME"   datasizewidth="135.8px" datasizeheight="21.0px" dataX="707.0" dataY="1789.2" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Paragraph_51_0">CLIENT NAME</span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Paragraph_24" class="richtext manualfit firer ie-background commentable non-processed" customid="H3"   datasizewidth="600.1px" datasizeheight="98.0px" dataX="631.0" dataY="1650.2" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Paragraph_24_0">&quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra odio malesuada ultricies luctus. Vestibulum in ullamcorper est. Mauris sed molestie mauris.&quot; </span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+\
+        <div id="s-Image_22" class="image firer ie-background commentable non-processed" customid="Image"   datasizewidth="516.0px" datasizeheight="333.0px" dataX="0.0" dataY="1573.2"   alt="image">\
+          <div class="borderLayer">\
+          	<div class="imageViewport">\
+          		<img src="./images/7d57a80e-d675-4958-8fdb-ce6f0f1b1e5f.png" />\
+          	</div>\
+          </div>\
+        </div>\
+\
+      </div>\
+\
+\
+      <div id="s-Image_23" class="image firer ie-background commentable non-processed" customid="Image 23"   datasizewidth="514.0px" datasizeheight="333.0px" dataX="0.0" dataY="1573.2"   alt="image">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+        		<img src="./images/6d4a10c9-c5c5-422f-b3ee-552b510daff0.png" />\
+        	</div>\
+        </div>\
+      </div>\
+\
+      <div id="s-Paragraph_25" class="richtext manualfit firer ie-background commentable non-processed" customid="ABOUT"   datasizewidth="146.8px" datasizeheight="34.0px" dataX="474.0" dataY="2284.6" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Paragraph_25_0">ABOUT</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="s-Paragraph_26" class="richtext manualfit firer ie-background commentable non-processed" customid="FEATURE"   datasizewidth="146.8px" datasizeheight="34.0px" dataX="474.0" dataY="2323.8" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Paragraph_26_0">FEATURE</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="s-Paragraph_27" class="richtext manualfit firer ie-background commentable non-processed" customid="PRODUCT"   datasizewidth="146.8px" datasizeheight="34.0px" dataX="474.0" dataY="2357.8" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Paragraph_27_0">PRODUCT</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+      </div>\
+\
+      </div>\
+      <div id="loadMark"></div>\
+    </div>  \
+</div>\
+';
+document.getElementById("chromeTransfer").innerHTML = content;
