@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* Nav Bar Styling */
+nav {
+    padding: 15px 30px !important;
+    /* margin: 15px 20px; */
+    background-color: #fff;
+    z-index: 11;
+}
+ul li{
+    list-style-type: none;
+}
+a.navbar-brand {
+    text-transform: uppercase;
+}
+.left_nav, .right-nav{
+    width: 50%;
+}
+.right-nav ul.navbar-nav {
+    display: flex;
+    justify-content: end;
+}
+
+.left_nav ul li img{
+    height: 60px ;
+    width: 50px ;
+}
+li .navbar-brand{
+    font-weight: 900;
+    font-size: x-large;
+}  
+/* end nav bar */
+
+
+/* Header section styling */
+#header{
+    background-color: #d8d6d6;
+    padding: 30px 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* .image-section{
+    width: 60%;
+} */
+.image-section img, .practice .image-section img{
+    width: -webkit-fill-available;
+    margin: 15px;
+}
+.text-section {
+    padding: 0 40px;
+}
+.text-section h1 {
+    font-size: 51px;
+    font-weight: 700;
+    margin: 20px 0;
+    color: #4e4e4e;
+}
+.text-section p{
+    font-weight: 900;
+    color: #747171;
+    font-size: 22px;
+}
+#header .text-section .btn {
+    width: 350px;
+    border: 1px transparent solid;
+    background-color: #3e3d3c;
+    color: #fff;
+    font-size: 22px;
+    font-weight: 700;
+    border-radius: 0;
+    margin: 20px 0;
+    text-transform: capitalize;
+}
+/* End header section  */
+
+
+
+/* Practice Section Start */
+
+
+
+#practice{
+    background-color: #fff;
+    padding: 30px 24px;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+}
+#practice .box-mod{
+    margin: 35px 0;
+}
+#practice .box-sec .card{
+    border-radius: 0 !important;
+}
+#practice img.img-fluid.rounded-start #practice video {
+    height: -webkit-fill-available;
+    border-radius: 0px !important;
+}
+video {
+    width: -webkit-fill-available;
+}
+/* Practice section End */
+/* learning section start */
+
+#learn{
+    background-color: #dddcdc;
+    padding: 20px;
+}
+
+#learn h1{
+    font-weight: 700;
+    font-size: 35px;
+    padding: 20px;
+}
+/* learnin section end */
+
+/* Responsive for Mobile viewr */
+@media (max-width:512px) {
+    /* Nav Bar */
+    nav.navbar.navbar-expand-md.md-body-tertiary.fixed-top.window {
+        display: none;
+    }
+   #mobile #mobile-view img {
+        height: 50px;
+        width: 40px;
+        margin: 0 23px;
+    }
+    #header, #practice{
+        display: block !important;
+    }
+    .footer{
+        display: block !important;
+        text-align: center;
+    }
+    .footer p{
+        text-align: center !important;
+    }
+    img.img-fluid.rounded-start {
+        width: -webkit-fill-available;
+    }
+}
+
+@media (max-width:375px){
+    #mobile #mobile-view img {
+        height: 40px;
+        width: 30px;
+        margin: 0 15px;
+    }
+}
